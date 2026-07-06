@@ -1,0 +1,1289 @@
+[
+  {
+    "id": 0,
+    "video_id": "05AVFTpp7fc",
+    "task": "MakeYoutiao",
+    "action": "fry the dough",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeYoutiao' and current action='fry the dough'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/05AVFTpp7fc-MakeYoutiao-fry the dough.jpg",
+    "ground_truth_video": "ground_truth_videos/05AVFTpp7fc-MakeYoutiao-fry the dough.mp4"
+  },
+  {
+    "id": 1,
+    "video_id": "0yWx7c5zkB8",
+    "task": "ReplaceAWiperHead",
+    "action": "take out the old rubber sleeve from the wiper head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceAWiperHead' and current action='take out the old rubber sleeve from the wiper head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/0yWx7c5zkB8-ReplaceAWiperHead-take out the old rubber sleeve from the wiper head.jpg",
+    "ground_truth_video": "ground_truth_videos/0yWx7c5zkB8-ReplaceAWiperHead-take out the old rubber sleeve from the wiper head.mp4"
+  },
+  {
+    "id": 2,
+    "video_id": "14bRmzauQFE",
+    "task": "CleanCementFloor",
+    "action": "dip detergent with rag or apply detergent",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanCementFloor' and current action='dip detergent with rag or apply detergent'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/14bRmzauQFE-CleanCementFloor-dip detergent with rag or apply detergent.jpg",
+    "ground_truth_video": "ground_truth_videos/14bRmzauQFE-CleanCementFloor-dip detergent with rag or apply detergent.mp4"
+  },
+  {
+    "id": 3,
+    "video_id": "14bRmzauQFE",
+    "task": "CleanCementFloor",
+    "action": "wash the floor",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanCementFloor' and current action='wash the floor'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/14bRmzauQFE-CleanCementFloor-wash the floor.jpg",
+    "ground_truth_video": "ground_truth_videos/14bRmzauQFE-CleanCementFloor-wash the floor.mp4"
+  },
+  {
+    "id": 4,
+    "video_id": "2EtLMEZex70",
+    "task": "ReplaceHardDisk",
+    "action": "remove the old hard disk",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceHardDisk' and current action='remove the old hard disk'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/2EtLMEZex70-ReplaceHardDisk-remove the old hard disk.jpg",
+    "ground_truth_video": "ground_truth_videos/2EtLMEZex70-ReplaceHardDisk-remove the old hard disk.mp4"
+  },
+  {
+    "id": 5,
+    "video_id": "2HSfz0pCdRE",
+    "task": "MakeWirelessEarbuds",
+    "action": "cut the headphone cable",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeWirelessEarbuds' and current action='cut the headphone cable'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/2HSfz0pCdRE-MakeWirelessEarbuds-cut the headphone cable.jpg",
+    "ground_truth_video": "ground_truth_videos/2HSfz0pCdRE-MakeWirelessEarbuds-cut the headphone cable.mp4"
+  },
+  {
+    "id": 6,
+    "video_id": "2_66OD4TuEQ",
+    "task": "UseTappingGun",
+    "action": "remove the protecting cover of the gun head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseTappingGun' and current action='remove the protecting cover of the gun head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/2_66OD4TuEQ-UseTappingGun-remove the protecting cover of the gun head.jpg",
+    "ground_truth_video": "ground_truth_videos/2_66OD4TuEQ-UseTappingGun-remove the protecting cover of the gun head.mp4"
+  },
+  {
+    "id": 7,
+    "video_id": "37yI9BfEXN8",
+    "task": "ChangeCarTire",
+    "action": "unscrew the screw",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeCarTire' and current action='unscrew the screw'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/37yI9BfEXN8-ChangeCarTire-unscrew the screw.jpg",
+    "ground_truth_video": "ground_truth_videos/37yI9BfEXN8-ChangeCarTire-unscrew the screw.mp4"
+  },
+  {
+    "id": 8,
+    "video_id": "38GqqShQbZQ",
+    "task": "CleanToilet",
+    "action": "apply detergent to the intertior of the toilet",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanToilet' and current action='apply detergent to the intertior of the toilet'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/38GqqShQbZQ-CleanToilet-apply detergent to the intertior of the toilet.jpg",
+    "ground_truth_video": "ground_truth_videos/38GqqShQbZQ-CleanToilet-apply detergent to the intertior of the toilet.mp4"
+  },
+  {
+    "id": 9,
+    "video_id": "38GqqShQbZQ",
+    "task": "CleanToilet",
+    "action": "flush and wash the interior",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanToilet' and current action='flush and wash the interior'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/38GqqShQbZQ-CleanToilet-flush and wash the interior.jpg",
+    "ground_truth_video": "ground_truth_videos/38GqqShQbZQ-CleanToilet-flush and wash the interior.mp4"
+  },
+  {
+    "id": 10,
+    "video_id": "3FI6lLlKMuo",
+    "task": "ChangeTonerCartridge",
+    "action": "close the front door or cover of the printer",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeTonerCartridge' and current action='close the front door or cover of the printer'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/3FI6lLlKMuo-ChangeTonerCartridge-close the front door or cover of the printer.jpg",
+    "ground_truth_video": "ground_truth_videos/3FI6lLlKMuo-ChangeTonerCartridge-close the front door or cover of the printer.mp4"
+  },
+  {
+    "id": 11,
+    "video_id": "4CHtEuIGPPQ",
+    "task": "CleanBathtub",
+    "action": "apply detergent to bathtub",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanBathtub' and current action='apply detergent to bathtub'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/4CHtEuIGPPQ-CleanBathtub-apply detergent to bathtub.jpg",
+    "ground_truth_video": "ground_truth_videos/4CHtEuIGPPQ-CleanBathtub-apply detergent to bathtub.mp4"
+  },
+  {
+    "id": 12,
+    "video_id": "5Hs2l9XXOrQ",
+    "task": "ReplaceHardDisk",
+    "action": "remove the old hard disk",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceHardDisk' and current action='remove the old hard disk'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/5Hs2l9XXOrQ-ReplaceHardDisk-remove the old hard disk.jpg",
+    "ground_truth_video": "ground_truth_videos/5Hs2l9XXOrQ-ReplaceHardDisk-remove the old hard disk.mp4"
+  },
+  {
+    "id": 13,
+    "video_id": "5PIPcvLnZjw",
+    "task": "FuelCar",
+    "action": "operate the control panel",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='FuelCar' and current action='operate the control panel'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/5PIPcvLnZjw-FuelCar-operate the control panel.jpg",
+    "ground_truth_video": "ground_truth_videos/5PIPcvLnZjw-FuelCar-operate the control panel.mp4"
+  },
+  {
+    "id": 14,
+    "video_id": "5bjExCVDvBI",
+    "task": "MakeMatchaTea",
+    "action": "add milk",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeMatchaTea' and current action='add milk'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/5bjExCVDvBI-MakeMatchaTea-add milk.jpg",
+    "ground_truth_video": "ground_truth_videos/5bjExCVDvBI-MakeMatchaTea-add milk.mp4"
+  },
+  {
+    "id": 15,
+    "video_id": "65yFZg63NbM",
+    "task": "RemoveBlackheadsWithGlue",
+    "action": "wipe the glue to a layer",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RemoveBlackheadsWithGlue' and current action='wipe the glue to a layer'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/65yFZg63NbM-RemoveBlackheadsWithGlue-wipe the glue to a layer.jpg",
+    "ground_truth_video": "ground_truth_videos/65yFZg63NbM-RemoveBlackheadsWithGlue-wipe the glue to a layer.mp4"
+  },
+  {
+    "id": 16,
+    "video_id": "6Cvo3Y2FWbU",
+    "task": "MakeSoap",
+    "action": "put the melted soap block into the vessel",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeSoap' and current action='put the melted soap block into the vessel'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/6Cvo3Y2FWbU-MakeSoap-put the melted soap block into the vessel.jpg",
+    "ground_truth_video": "ground_truth_videos/6Cvo3Y2FWbU-MakeSoap-put the melted soap block into the vessel.mp4"
+  },
+  {
+    "id": 17,
+    "video_id": "6OK88K1XHYE",
+    "task": "CleanWoodenFloor",
+    "action": "apply detergent",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanWoodenFloor' and current action='apply detergent'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/6OK88K1XHYE-CleanWoodenFloor-apply detergent.jpg",
+    "ground_truth_video": "ground_truth_videos/6OK88K1XHYE-CleanWoodenFloor-apply detergent.mp4"
+  },
+  {
+    "id": 18,
+    "video_id": "6a7kQH627jg",
+    "task": "MakePaperWindMill",
+    "action": "fix the wind mill on the bracket",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakePaperWindMill' and current action='fix the wind mill on the bracket'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/6a7kQH627jg-MakePaperWindMill-fix the wind mill on the bracket.jpg",
+    "ground_truth_video": "ground_truth_videos/6a7kQH627jg-MakePaperWindMill-fix the wind mill on the bracket.mp4"
+  },
+  {
+    "id": 19,
+    "video_id": "7vdgJGBdOGc",
+    "task": "ReplaceMobileScreenProtector",
+    "action": "remove the original protector",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceMobileScreenProtector' and current action='remove the original protector'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/7vdgJGBdOGc-ReplaceMobileScreenProtector-remove the original protector.jpg",
+    "ground_truth_video": "ground_truth_videos/7vdgJGBdOGc-ReplaceMobileScreenProtector-remove the original protector.mp4"
+  },
+  {
+    "id": 20,
+    "video_id": "8P3GD2Cegcg",
+    "task": "ReplaceDoorKnob",
+    "action": "remove the bolt and pin board",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceDoorKnob' and current action='remove the bolt and pin board'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/8P3GD2Cegcg-ReplaceDoorKnob-remove the bolt and pin board.jpg",
+    "ground_truth_video": "ground_truth_videos/8P3GD2Cegcg-ReplaceDoorKnob-remove the bolt and pin board.mp4"
+  },
+  {
+    "id": 21,
+    "video_id": "8uR4K4FiqoQ",
+    "task": "InstallWoodFlooring",
+    "action": "apply some glue on the borads",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='InstallWoodFlooring' and current action='apply some glue on the borads'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/8uR4K4FiqoQ-InstallWoodFlooring-apply some glue on the borads.jpg",
+    "ground_truth_video": "ground_truth_videos/8uR4K4FiqoQ-InstallWoodFlooring-apply some glue on the borads.mp4"
+  },
+  {
+    "id": 22,
+    "video_id": "9KCy9ZKK2Nc",
+    "task": "ReplaceLaptopScreen",
+    "action": "take out the battery",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceLaptopScreen' and current action='take out the battery'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/9KCy9ZKK2Nc-ReplaceLaptopScreen-take out the battery.jpg",
+    "ground_truth_video": "ground_truth_videos/9KCy9ZKK2Nc-ReplaceLaptopScreen-take out the battery.mp4"
+  },
+  {
+    "id": 23,
+    "video_id": "9RhoGtRWE4g",
+    "task": "RefillAStapler",
+    "action": "insert the stapler pins",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RefillAStapler' and current action='insert the stapler pins'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/9RhoGtRWE4g-RefillAStapler-insert the stapler pins.jpg",
+    "ground_truth_video": "ground_truth_videos/9RhoGtRWE4g-RefillAStapler-insert the stapler pins.mp4"
+  },
+  {
+    "id": 24,
+    "video_id": "9ZeVS3UmDOw",
+    "task": "PumpUpBicycleTire",
+    "action": "remove the air nozzle",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PumpUpBicycleTire' and current action='remove the air nozzle'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/9ZeVS3UmDOw-PumpUpBicycleTire-remove the air nozzle.jpg",
+    "ground_truth_video": "ground_truth_videos/9ZeVS3UmDOw-PumpUpBicycleTire-remove the air nozzle.mp4"
+  },
+  {
+    "id": 25,
+    "video_id": "9nTB9XDVbW8",
+    "task": "ResizeWatchBand",
+    "action": "push the pin in",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ResizeWatchBand' and current action='push the pin in'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/9nTB9XDVbW8-ResizeWatchBand-push the pin in.jpg",
+    "ground_truth_video": "ground_truth_videos/9nTB9XDVbW8-ResizeWatchBand-push the pin in.mp4"
+  },
+  {
+    "id": 26,
+    "video_id": "ALRY17ytL74",
+    "task": "DoLinoPrinting",
+    "action": "ink the marked area",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='DoLinoPrinting' and current action='ink the marked area'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ALRY17ytL74-DoLinoPrinting-ink the marked area.jpg",
+    "ground_truth_video": "ground_truth_videos/ALRY17ytL74-DoLinoPrinting-ink the marked area.mp4"
+  },
+  {
+    "id": 27,
+    "video_id": "BpzQBBKHyyM",
+    "task": "ResizeWatchBand",
+    "action": "put the pin in",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ResizeWatchBand' and current action='put the pin in'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/BpzQBBKHyyM-ResizeWatchBand-put the pin in.jpg",
+    "ground_truth_video": "ground_truth_videos/BpzQBBKHyyM-ResizeWatchBand-put the pin in.mp4"
+  },
+  {
+    "id": 28,
+    "video_id": "BvaDvQTGC",
+    "task": "4",
+    "action": "MakeSandwich-put the filler on the bread slice",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='4' and current action='MakeSandwich-put the filler on the bread slice'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/BvaDvQTGC-4-MakeSandwich-put the filler on the bread slice.jpg",
+    "ground_truth_video": "ground_truth_videos/BvaDvQTGC-4-MakeSandwich-put the filler on the bread slice.mp4"
+  },
+  {
+    "id": 29,
+    "video_id": "C7ZICo4swQ8",
+    "task": "CleanHamsterCage",
+    "action": "put the hamster back into the hamster cage",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanHamsterCage' and current action='put the hamster back into the hamster cage'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/C7ZICo4swQ8-CleanHamsterCage-put the hamster back into the hamster cage.jpg",
+    "ground_truth_video": "ground_truth_videos/C7ZICo4swQ8-CleanHamsterCage-put the hamster back into the hamster cage.mp4"
+  },
+  {
+    "id": 30,
+    "video_id": "CT",
+    "task": "1JfOaP2g",
+    "action": "CutCantaloupe-slice the pulp",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='1JfOaP2g' and current action='CutCantaloupe-slice the pulp'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/CT-1JfOaP2g-CutCantaloupe-slice the pulp.jpg",
+    "ground_truth_video": "ground_truth_videos/CT-1JfOaP2g-CutCantaloupe-slice the pulp.mp4"
+  },
+  {
+    "id": 31,
+    "video_id": "Cep5htIMjZI",
+    "task": "MakeSalmon",
+    "action": "add decoration",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeSalmon' and current action='add decoration'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Cep5htIMjZI-MakeSalmon-add decoration.jpg",
+    "ground_truth_video": "ground_truth_videos/Cep5htIMjZI-MakeSalmon-add decoration.mp4"
+  },
+  {
+    "id": 32,
+    "video_id": "Deov8hMyUrw",
+    "task": "SetUpAHamsterCage",
+    "action": "set different kinds of hamster toys",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='SetUpAHamsterCage' and current action='set different kinds of hamster toys'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Deov8hMyUrw-SetUpAHamsterCage-set different kinds of hamster toys.jpg",
+    "ground_truth_video": "ground_truth_videos/Deov8hMyUrw-SetUpAHamsterCage-set different kinds of hamster toys.mp4"
+  },
+  {
+    "id": 33,
+    "video_id": "EDg3g7jsneM",
+    "task": "ReplaceDoorKnob",
+    "action": "install the new bolt",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceDoorKnob' and current action='install the new bolt'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/EDg3g7jsneM-ReplaceDoorKnob-install the new bolt.jpg",
+    "ground_truth_video": "ground_truth_videos/EDg3g7jsneM-ReplaceDoorKnob-install the new bolt.mp4"
+  },
+  {
+    "id": 34,
+    "video_id": "EL_7CO_x4pc",
+    "task": "InstallShowerHead",
+    "action": "install the new shower head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='InstallShowerHead' and current action='install the new shower head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/EL_7CO_x4pc-InstallShowerHead-install the new shower head.jpg",
+    "ground_truth_video": "ground_truth_videos/EL_7CO_x4pc-InstallShowerHead-install the new shower head.mp4"
+  },
+  {
+    "id": 35,
+    "video_id": "EiT_WKOrf_8",
+    "task": "PumpUpBicycleTire",
+    "action": "pump up to the tire",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PumpUpBicycleTire' and current action='pump up to the tire'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/EiT_WKOrf_8-PumpUpBicycleTire-pump up to the tire.jpg",
+    "ground_truth_video": "ground_truth_videos/EiT_WKOrf_8-PumpUpBicycleTire-pump up to the tire.mp4"
+  },
+  {
+    "id": 36,
+    "video_id": "EkRg8uBgPwk",
+    "task": "CookOmelet",
+    "action": "pour the egg into the pot",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CookOmelet' and current action='pour the egg into the pot'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/EkRg8uBgPwk-CookOmelet-pour the egg into the pot.jpg",
+    "ground_truth_video": "ground_truth_videos/EkRg8uBgPwk-CookOmelet-pour the egg into the pot.mp4"
+  },
+  {
+    "id": 37,
+    "video_id": "F5JeSnLF_N0",
+    "task": "Sow",
+    "action": "sow on the soil",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='Sow' and current action='sow on the soil'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/F5JeSnLF_N0-Sow-sow on the soil.jpg",
+    "ground_truth_video": "ground_truth_videos/F5JeSnLF_N0-Sow-sow on the soil.mp4"
+  },
+  {
+    "id": 38,
+    "video_id": "F5JeSnLF_N0",
+    "task": "Sow",
+    "action": "water and fertilize the seeds",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='Sow' and current action='water and fertilize the seeds'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/F5JeSnLF_N0-Sow-water and fertilize the seeds.jpg",
+    "ground_truth_video": "ground_truth_videos/F5JeSnLF_N0-Sow-water and fertilize the seeds.mp4"
+  },
+  {
+    "id": 39,
+    "video_id": "FGGEJaRuR8I",
+    "task": "ReplaceRearviewMirrorGlass",
+    "action": "cut off the electric wire",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceRearviewMirrorGlass' and current action='cut off the electric wire'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/FGGEJaRuR8I-ReplaceRearviewMirrorGlass-cut off the electric wire.jpg",
+    "ground_truth_video": "ground_truth_videos/FGGEJaRuR8I-ReplaceRearviewMirrorGlass-cut off the electric wire.mp4"
+  },
+  {
+    "id": 40,
+    "video_id": "FKUPXwvRjec",
+    "task": "IronClothes",
+    "action": "iron the cloths with the iron",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='IronClothes' and current action='iron the cloths with the iron'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/FKUPXwvRjec-IronClothes-iron the cloths with the iron.jpg",
+    "ground_truth_video": "ground_truth_videos/FKUPXwvRjec-IronClothes-iron the cloths with the iron.mp4"
+  },
+  {
+    "id": 41,
+    "video_id": "FKey",
+    "task": "gEGoik",
+    "action": "MakeChineseLantern-draw pictures on the materials",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='gEGoik' and current action='MakeChineseLantern-draw pictures on the materials'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/FKey-gEGoik-MakeChineseLantern-draw pictures on the materials.jpg",
+    "ground_truth_video": "ground_truth_videos/FKey-gEGoik-MakeChineseLantern-draw pictures on the materials.mp4"
+  },
+  {
+    "id": 42,
+    "video_id": "Gx0ON1f7J44",
+    "task": "CleanRustyPot",
+    "action": "pour salt and rust removal liquid",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanRustyPot' and current action='pour salt and rust removal liquid'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Gx0ON1f7J44-CleanRustyPot-pour salt and rust removal liquid.jpg",
+    "ground_truth_video": "ground_truth_videos/Gx0ON1f7J44-CleanRustyPot-pour salt and rust removal liquid.mp4"
+  },
+  {
+    "id": 43,
+    "video_id": "HJohNafwwf0",
+    "task": "InstallCurtain",
+    "action": "install two shelves",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='InstallCurtain' and current action='install two shelves'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/HJohNafwwf0-InstallCurtain-install two shelves.jpg",
+    "ground_truth_video": "ground_truth_videos/HJohNafwwf0-InstallCurtain-install two shelves.mp4"
+  },
+  {
+    "id": 44,
+    "video_id": "HS1aGWA10GI",
+    "task": "FuelCar",
+    "action": "close the fuel tank cap",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='FuelCar' and current action='close the fuel tank cap'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/HS1aGWA10GI-FuelCar-close the fuel tank cap.jpg",
+    "ground_truth_video": "ground_truth_videos/HS1aGWA10GI-FuelCar-close the fuel tank cap.mp4"
+  },
+  {
+    "id": 45,
+    "video_id": "Hdc7RJV4_5o",
+    "task": "PrepareSumiInk",
+    "action": "add some water to the vessel",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PrepareSumiInk' and current action='add some water to the vessel'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Hdc7RJV4_5o-PrepareSumiInk-add some water to the vessel.jpg",
+    "ground_truth_video": "ground_truth_videos/Hdc7RJV4_5o-PrepareSumiInk-add some water to the vessel.mp4"
+  },
+  {
+    "id": 46,
+    "video_id": "HrPozvZuCfo",
+    "task": "HangWallpaper",
+    "action": "apply glue to the wall and wallpaper",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='HangWallpaper' and current action='apply glue to the wall and wallpaper'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/HrPozvZuCfo-HangWallpaper-apply glue to the wall and wallpaper.jpg",
+    "ground_truth_video": "ground_truth_videos/HrPozvZuCfo-HangWallpaper-apply glue to the wall and wallpaper.mp4"
+  },
+  {
+    "id": 47,
+    "video_id": "J2KkDFXEEJ4",
+    "task": "ChangeBatteryOfWatch",
+    "action": "replace the battery",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeBatteryOfWatch' and current action='replace the battery'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/J2KkDFXEEJ4-ChangeBatteryOfWatch-replace the battery.jpg",
+    "ground_truth_video": "ground_truth_videos/J2KkDFXEEJ4-ChangeBatteryOfWatch-replace the battery.mp4"
+  },
+  {
+    "id": 48,
+    "video_id": "JFhEnMN6Uh0",
+    "task": "MakeSoap",
+    "action": "prepare a vacant vessel",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeSoap' and current action='prepare a vacant vessel'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/JFhEnMN6Uh0-MakeSoap-prepare a vacant vessel.jpg",
+    "ground_truth_video": "ground_truth_videos/JFhEnMN6Uh0-MakeSoap-prepare a vacant vessel.mp4"
+  },
+  {
+    "id": 49,
+    "video_id": "JcvfuLcwdsw",
+    "task": "ReplaceElectricalOutlet",
+    "action": "switch off the power",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceElectricalOutlet' and current action='switch off the power'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/JcvfuLcwdsw-ReplaceElectricalOutlet-switch off the power.jpg",
+    "ground_truth_video": "ground_truth_videos/JcvfuLcwdsw-ReplaceElectricalOutlet-switch off the power.mp4"
+  },
+  {
+    "id": 50,
+    "video_id": "K7QyCMNDHAs",
+    "task": "UseEpinephrineAuto",
+    "action": "injector-unplug protection head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseEpinephrineAuto' and current action='injector-unplug protection head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/K7QyCMNDHAs-UseEpinephrineAuto-injector-unplug protection head.jpg",
+    "ground_truth_video": "ground_truth_videos/K7QyCMNDHAs-UseEpinephrineAuto-injector-unplug protection head.mp4"
+  },
+  {
+    "id": 51,
+    "video_id": "KU_kaTJbKhc",
+    "task": "ReplaceDrumhead",
+    "action": "remove the drumhead",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceDrumhead' and current action='remove the drumhead'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/KU_kaTJbKhc-ReplaceDrumhead-remove the drumhead.jpg",
+    "ground_truth_video": "ground_truth_videos/KU_kaTJbKhc-ReplaceDrumhead-remove the drumhead.mp4"
+  },
+  {
+    "id": 52,
+    "video_id": "KxX40QIS1U4",
+    "task": "ChangeBatteryOfWatch",
+    "action": "open the back cover",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeBatteryOfWatch' and current action='open the back cover'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/KxX40QIS1U4-ChangeBatteryOfWatch-open the back cover.jpg",
+    "ground_truth_video": "ground_truth_videos/KxX40QIS1U4-ChangeBatteryOfWatch-open the back cover.mp4"
+  },
+  {
+    "id": 53,
+    "video_id": "L9XGb",
+    "task": "0SiMM",
+    "action": "CutMango-remove the core",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='0SiMM' and current action='CutMango-remove the core'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/L9XGb-0SiMM-CutMango-remove the core.jpg",
+    "ground_truth_video": "ground_truth_videos/L9XGb-0SiMM-CutMango-remove the core.mp4"
+  },
+  {
+    "id": 54,
+    "video_id": "LmCuvsTshtE",
+    "task": "ChangeBikeTires",
+    "action": "load the tire",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeBikeTires' and current action='load the tire'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/LmCuvsTshtE-ChangeBikeTires-load the tire.jpg",
+    "ground_truth_video": "ground_truth_videos/LmCuvsTshtE-ChangeBikeTires-load the tire.mp4"
+  },
+  {
+    "id": 55,
+    "video_id": "MN6_Jm9p_vg",
+    "task": "MakeCookie",
+    "action": "mix raw materials",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeCookie' and current action='mix raw materials'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/MN6_Jm9p_vg-MakeCookie-mix raw materials.jpg",
+    "ground_truth_video": "ground_truth_videos/MN6_Jm9p_vg-MakeCookie-mix raw materials.mp4"
+  },
+  {
+    "id": 56,
+    "video_id": "MSaRyxlZJMw",
+    "task": "PerformCPR",
+    "action": "do artificial breathing to the patient",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PerformCPR' and current action='do artificial breathing to the patient'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/MSaRyxlZJMw-PerformCPR-do artificial breathing to the patient.jpg",
+    "ground_truth_video": "ground_truth_videos/MSaRyxlZJMw-PerformCPR-do artificial breathing to the patient.mp4"
+  },
+  {
+    "id": 57,
+    "video_id": "MfNn76Aix",
+    "task": "0",
+    "action": "MakeSalad-stir the ingredients",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='0' and current action='MakeSalad-stir the ingredients'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/MfNn76Aix-0-MakeSalad-stir the ingredients.jpg",
+    "ground_truth_video": "ground_truth_videos/MfNn76Aix-0-MakeSalad-stir the ingredients.mp4"
+  },
+  {
+    "id": 58,
+    "video_id": "MnyoHpbISYc",
+    "task": "RefillAStapler",
+    "action": "close up the stapler",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RefillAStapler' and current action='close up the stapler'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/MnyoHpbISYc-RefillAStapler-close up the stapler.jpg",
+    "ground_truth_video": "ground_truth_videos/MnyoHpbISYc-RefillAStapler-close up the stapler.mp4"
+  },
+  {
+    "id": 59,
+    "video_id": "ND7O1P8tpx8",
+    "task": "UseVendingMachine",
+    "action": "insert money into the vending machine",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseVendingMachine' and current action='insert money into the vending machine'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ND7O1P8tpx8-UseVendingMachine-insert money into the vending machine.jpg",
+    "ground_truth_video": "ground_truth_videos/ND7O1P8tpx8-UseVendingMachine-insert money into the vending machine.mp4"
+  },
+  {
+    "id": 60,
+    "video_id": "NQRlx4Wb18E",
+    "task": "DrawBlood",
+    "action": "pull out the needle and press with cotton",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='DrawBlood' and current action='pull out the needle and press with cotton'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/NQRlx4Wb18E-DrawBlood-pull out the needle and press with cotton.jpg",
+    "ground_truth_video": "ground_truth_videos/NQRlx4Wb18E-DrawBlood-pull out the needle and press with cotton.mp4"
+  },
+  {
+    "id": 61,
+    "video_id": "NoohBOpi6ow",
+    "task": "UseEpinephrineAuto",
+    "action": "injector-unplug protection head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseEpinephrineAuto' and current action='injector-unplug protection head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/NoohBOpi6ow-UseEpinephrineAuto-injector-unplug protection head.jpg",
+    "ground_truth_video": "ground_truth_videos/NoohBOpi6ow-UseEpinephrineAuto-injector-unplug protection head.mp4"
+  },
+  {
+    "id": 62,
+    "video_id": "Nw__QiieK90",
+    "task": "MakeFrenchFries",
+    "action": "dry strips",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeFrenchFries' and current action='dry strips'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Nw__QiieK90-MakeFrenchFries-dry strips.jpg",
+    "ground_truth_video": "ground_truth_videos/Nw__QiieK90-MakeFrenchFries-dry strips.mp4"
+  },
+  {
+    "id": 63,
+    "video_id": "Q1ZOstti8Tg",
+    "task": "ChangeCarTire",
+    "action": "remove the tire",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeCarTire' and current action='remove the tire'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Q1ZOstti8Tg-ChangeCarTire-remove the tire.jpg",
+    "ground_truth_video": "ground_truth_videos/Q1ZOstti8Tg-ChangeCarTire-remove the tire.mp4"
+  },
+  {
+    "id": 64,
+    "video_id": "RItEzaT0bss",
+    "task": "RemoveCrayonFromWalls",
+    "action": "apply cleaning agent",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RemoveCrayonFromWalls' and current action='apply cleaning agent'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/RItEzaT0bss-RemoveCrayonFromWalls-apply cleaning agent.jpg",
+    "ground_truth_video": "ground_truth_videos/RItEzaT0bss-RemoveCrayonFromWalls-apply cleaning agent.mp4"
+  },
+  {
+    "id": 65,
+    "video_id": "RnLcsM",
+    "task": "QmuU",
+    "action": "MakeRJ45Cable-fixe it with a crimping pliers",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='QmuU' and current action='MakeRJ45Cable-fixe it with a crimping pliers'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/RnLcsM-QmuU-MakeRJ45Cable-fixe it with a crimping pliers.jpg",
+    "ground_truth_video": "ground_truth_videos/RnLcsM-QmuU-MakeRJ45Cable-fixe it with a crimping pliers.mp4"
+  },
+  {
+    "id": 66,
+    "video_id": "RvsZmTcJkjk",
+    "task": "MakeSalmon",
+    "action": "add seasoning",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeSalmon' and current action='add seasoning'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/RvsZmTcJkjk-MakeSalmon-add seasoning.jpg",
+    "ground_truth_video": "ground_truth_videos/RvsZmTcJkjk-MakeSalmon-add seasoning.mp4"
+  },
+  {
+    "id": 67,
+    "video_id": "S0CPA1fCWYY",
+    "task": "OperateFireExtinguisher",
+    "action": "pull out the insurance ring",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='OperateFireExtinguisher' and current action='pull out the insurance ring'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/S0CPA1fCWYY-OperateFireExtinguisher-pull out the insurance ring.jpg",
+    "ground_truth_video": "ground_truth_videos/S0CPA1fCWYY-OperateFireExtinguisher-pull out the insurance ring.mp4"
+  },
+  {
+    "id": 68,
+    "video_id": "SeOyYK",
+    "task": "sW2E",
+    "action": "UseVolumetricFlask-seal the volumetric flask",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='sW2E' and current action='UseVolumetricFlask-seal the volumetric flask'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/SeOyYK-sW2E-UseVolumetricFlask-seal the volumetric flask.jpg",
+    "ground_truth_video": "ground_truth_videos/SeOyYK-sW2E-UseVolumetricFlask-seal the volumetric flask.mp4"
+  },
+  {
+    "id": 69,
+    "video_id": "Sereo2evK6E",
+    "task": "AssembleBed",
+    "action": "place the bed board",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='AssembleBed' and current action='place the bed board'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Sereo2evK6E-AssembleBed-place the bed board.jpg",
+    "ground_truth_video": "ground_truth_videos/Sereo2evK6E-AssembleBed-place the bed board.mp4"
+  },
+  {
+    "id": 70,
+    "video_id": "TYbUtWKH_28",
+    "task": "PerformCPR",
+    "action": "do artificial breathing to the patient",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PerformCPR' and current action='do artificial breathing to the patient'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/TYbUtWKH_28-PerformCPR-do artificial breathing to the patient.jpg",
+    "ground_truth_video": "ground_truth_videos/TYbUtWKH_28-PerformCPR-do artificial breathing to the patient.mp4"
+  },
+  {
+    "id": 71,
+    "video_id": "UoOiwyFOn_E",
+    "task": "MakeHomemadeIceCream",
+    "action": "stir the mixture",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeHomemadeIceCream' and current action='stir the mixture'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/UoOiwyFOn_E-MakeHomemadeIceCream-stir the mixture.jpg",
+    "ground_truth_video": "ground_truth_videos/UoOiwyFOn_E-MakeHomemadeIceCream-stir the mixture.mp4"
+  },
+  {
+    "id": 72,
+    "video_id": "UvIjjBQ7SQ0",
+    "task": "GluePingPongRubber",
+    "action": "cut the rubber",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='GluePingPongRubber' and current action='cut the rubber'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/UvIjjBQ7SQ0-GluePingPongRubber-cut the rubber.jpg",
+    "ground_truth_video": "ground_truth_videos/UvIjjBQ7SQ0-GluePingPongRubber-cut the rubber.mp4"
+  },
+  {
+    "id": 73,
+    "video_id": "VATTWbtJ8xc",
+    "task": "ReplaceBladeOfASaw",
+    "action": "install the new blade",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceBladeOfASaw' and current action='install the new blade'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/VATTWbtJ8xc-ReplaceBladeOfASaw-install the new blade.jpg",
+    "ground_truth_video": "ground_truth_videos/VATTWbtJ8xc-ReplaceBladeOfASaw-install the new blade.mp4"
+  },
+  {
+    "id": 74,
+    "video_id": "VFpI1L1e79A",
+    "task": "ChangeMobilePhoneBattery",
+    "action": "pick up the back cover of the phone with the cymbal",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeMobilePhoneBattery' and current action='pick up the back cover of the phone with the cymbal'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/VFpI1L1e79A-ChangeMobilePhoneBattery-pick up the back cover of the phone with the cymbal.jpg",
+    "ground_truth_video": "ground_truth_videos/VFpI1L1e79A-ChangeMobilePhoneBattery-pick up the back cover of the phone with the cymbal.mp4"
+  },
+  {
+    "id": 75,
+    "video_id": "VRid2IyacC8",
+    "task": "RefillFountainPen",
+    "action": "clean the fountain pen with napkin",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RefillFountainPen' and current action='clean the fountain pen with napkin'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/VRid2IyacC8-RefillFountainPen-clean the fountain pen with napkin.jpg",
+    "ground_truth_video": "ground_truth_videos/VRid2IyacC8-RefillFountainPen-clean the fountain pen with napkin.mp4"
+  },
+  {
+    "id": 76,
+    "video_id": "VZzyUk",
+    "task": "HfN0",
+    "action": "ReplaceHardDisk-install the laptop rear cover",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='HfN0' and current action='ReplaceHardDisk-install the laptop rear cover'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/VZzyUk-HfN0-ReplaceHardDisk-install the laptop rear cover.jpg",
+    "ground_truth_video": "ground_truth_videos/VZzyUk-HfN0-ReplaceHardDisk-install the laptop rear cover.mp4"
+  },
+  {
+    "id": 77,
+    "video_id": "WIsYqmhKo_I",
+    "task": "Transplant",
+    "action": "put in the plant",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='Transplant' and current action='put in the plant'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/WIsYqmhKo_I-Transplant-put in the plant.jpg",
+    "ground_truth_video": "ground_truth_videos/WIsYqmhKo_I-Transplant-put in the plant.mp4"
+  },
+  {
+    "id": 78,
+    "video_id": "Wh0Z5_wqNto",
+    "task": "MakeHummus",
+    "action": "invert seasoning",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeHummus' and current action='invert seasoning'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Wh0Z5_wqNto-MakeHummus-invert seasoning.jpg",
+    "ground_truth_video": "ground_truth_videos/Wh0Z5_wqNto-MakeHummus-invert seasoning.mp4"
+  },
+  {
+    "id": 79,
+    "video_id": "Xk1NwqfgF0I",
+    "task": "ReplaceMobileScreenProtector",
+    "action": "line up the protector and the cellphone",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceMobileScreenProtector' and current action='line up the protector and the cellphone'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Xk1NwqfgF0I-ReplaceMobileScreenProtector-line up the protector and the cellphone.jpg",
+    "ground_truth_video": "ground_truth_videos/Xk1NwqfgF0I-ReplaceMobileScreenProtector-line up the protector and the cellphone.mp4"
+  },
+  {
+    "id": 80,
+    "video_id": "Z94md2lQtnY",
+    "task": "RefillAStapler",
+    "action": "insert the stapler pins",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RefillAStapler' and current action='insert the stapler pins'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/Z94md2lQtnY-RefillAStapler-insert the stapler pins.jpg",
+    "ground_truth_video": "ground_truth_videos/Z94md2lQtnY-RefillAStapler-insert the stapler pins.mp4"
+  },
+  {
+    "id": 81,
+    "video_id": "ZfLbU80VEIA",
+    "task": "PerformPaperToMoneyTrick",
+    "action": "fold or fire the blank paper",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PerformPaperToMoneyTrick' and current action='fold or fire the blank paper'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ZfLbU80VEIA-PerformPaperToMoneyTrick-fold or fire the blank paper.jpg",
+    "ground_truth_video": "ground_truth_videos/ZfLbU80VEIA-PerformPaperToMoneyTrick-fold or fire the blank paper.mp4"
+  },
+  {
+    "id": 82,
+    "video_id": "ZrHWIj4Vtms",
+    "task": "ThrowHammer",
+    "action": "rotate body and accelerate the hammer",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ThrowHammer' and current action='rotate body and accelerate the hammer'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ZrHWIj4Vtms-ThrowHammer-rotate body and accelerate the hammer.jpg",
+    "ground_truth_video": "ground_truth_videos/ZrHWIj4Vtms-ThrowHammer-rotate body and accelerate the hammer.mp4"
+  },
+  {
+    "id": 83,
+    "video_id": "ZrXU1DVeOqo",
+    "task": "ChangeBikeTires",
+    "action": "load the inner tube",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeBikeTires' and current action='load the inner tube'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ZrXU1DVeOqo-ChangeBikeTires-load the inner tube.jpg",
+    "ground_truth_video": "ground_truth_videos/ZrXU1DVeOqo-ChangeBikeTires-load the inner tube.mp4"
+  },
+  {
+    "id": 84,
+    "video_id": "_9npIqkWGCo",
+    "task": "MakeStrawberrySmoothie",
+    "action": "put yogurt, honey and other ingredients into the juicer",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeStrawberrySmoothie' and current action='put yogurt, honey and other ingredients into the juicer'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/_9npIqkWGCo-MakeStrawberrySmoothie-put yogurt, honey and other ingredients into the juicer.jpg",
+    "ground_truth_video": "ground_truth_videos/_9npIqkWGCo-MakeStrawberrySmoothie-put yogurt, honey and other ingredients into the juicer.mp4"
+  },
+  {
+    "id": 85,
+    "video_id": "_OnQxBQ0jYU",
+    "task": "GiveAnIntramuscularInjection",
+    "action": "disinfect the injecting place",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='GiveAnIntramuscularInjection' and current action='disinfect the injecting place'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/_OnQxBQ0jYU-GiveAnIntramuscularInjection-disinfect the injecting place.jpg",
+    "ground_truth_video": "ground_truth_videos/_OnQxBQ0jYU-GiveAnIntramuscularInjection-disinfect the injecting place.mp4"
+  },
+  {
+    "id": 86,
+    "video_id": "a3R0PHd",
+    "task": "eyo",
+    "action": "RefillMechanicalPencils-remove cap",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='eyo' and current action='RefillMechanicalPencils-remove cap'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/a3R0PHd-eyo-RefillMechanicalPencils-remove cap.jpg",
+    "ground_truth_video": "ground_truth_videos/a3R0PHd-eyo-RefillMechanicalPencils-remove cap.mp4"
+  },
+  {
+    "id": 87,
+    "video_id": "a3rL",
+    "task": "f9zYjc",
+    "action": "GiveAnIntramuscularInjection-pull out the needle and press",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='f9zYjc' and current action='GiveAnIntramuscularInjection-pull out the needle and press'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/a3rL-f9zYjc-GiveAnIntramuscularInjection-pull out the needle and press.jpg",
+    "ground_truth_video": "ground_truth_videos/a3rL-f9zYjc-GiveAnIntramuscularInjection-pull out the needle and press.mp4"
+  },
+  {
+    "id": 88,
+    "video_id": "aCiN9mqkXoA",
+    "task": "WashDish",
+    "action": "add detergent and make bubble",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='WashDish' and current action='add detergent and make bubble'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/aCiN9mqkXoA-WashDish-add detergent and make bubble.jpg",
+    "ground_truth_video": "ground_truth_videos/aCiN9mqkXoA-WashDish-add detergent and make bubble.mp4"
+  },
+  {
+    "id": 89,
+    "video_id": "aogu4SX7ULg",
+    "task": "MakeBurger",
+    "action": "knead the meat",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeBurger' and current action='knead the meat'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/aogu4SX7ULg-MakeBurger-knead the meat.jpg",
+    "ground_truth_video": "ground_truth_videos/aogu4SX7ULg-MakeBurger-knead the meat.mp4"
+  },
+  {
+    "id": 90,
+    "video_id": "b0ahREpQqsM",
+    "task": "MakeSalmon",
+    "action": "add seasoning on the salmon",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeSalmon' and current action='add seasoning on the salmon'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/b0ahREpQqsM-MakeSalmon-add seasoning on the salmon.jpg",
+    "ground_truth_video": "ground_truth_videos/b0ahREpQqsM-MakeSalmon-add seasoning on the salmon.mp4"
+  },
+  {
+    "id": 91,
+    "video_id": "b8OOOCd6buQ",
+    "task": "UseRiceCookerToCookRice",
+    "action": "take out some rice",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseRiceCookerToCookRice' and current action='take out some rice'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/b8OOOCd6buQ-UseRiceCookerToCookRice-take out some rice.jpg",
+    "ground_truth_video": "ground_truth_videos/b8OOOCd6buQ-UseRiceCookerToCookRice-take out some rice.mp4"
+  },
+  {
+    "id": 92,
+    "video_id": "bCBXzFXp4xw",
+    "task": "SmashGarlic",
+    "action": "cut up the garlics",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='SmashGarlic' and current action='cut up the garlics'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/bCBXzFXp4xw-SmashGarlic-cut up the garlics.jpg",
+    "ground_truth_video": "ground_truth_videos/bCBXzFXp4xw-SmashGarlic-cut up the garlics.mp4"
+  },
+  {
+    "id": 93,
+    "video_id": "bFQ3t05Icr8",
+    "task": "MakeBurger",
+    "action": "fry meat",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeBurger' and current action='fry meat'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/bFQ3t05Icr8-MakeBurger-fry meat.jpg",
+    "ground_truth_video": "ground_truth_videos/bFQ3t05Icr8-MakeBurger-fry meat.mp4"
+  },
+  {
+    "id": 94,
+    "video_id": "bdcW9M3vYBo",
+    "task": "ReplaceLaptopScreen",
+    "action": "install the new screen",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceLaptopScreen' and current action='install the new screen'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/bdcW9M3vYBo-ReplaceLaptopScreen-install the new screen.jpg",
+    "ground_truth_video": "ground_truth_videos/bdcW9M3vYBo-ReplaceLaptopScreen-install the new screen.mp4"
+  },
+  {
+    "id": 95,
+    "video_id": "cU",
+    "task": "rvLKIe_I",
+    "action": "CleanShrimp-remove the tail",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='rvLKIe_I' and current action='CleanShrimp-remove the tail'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/cU-rvLKIe_I-CleanShrimp-remove the tail.jpg",
+    "ground_truth_video": "ground_truth_videos/cU-rvLKIe_I-CleanShrimp-remove the tail.mp4"
+  },
+  {
+    "id": 96,
+    "video_id": "dXcd1GZoraY",
+    "task": "ReplaceRearviewMirrorGlass",
+    "action": "cut off the electric wire",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceRearviewMirrorGlass' and current action='cut off the electric wire'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/dXcd1GZoraY-ReplaceRearviewMirrorGlass-cut off the electric wire.jpg",
+    "ground_truth_video": "ground_truth_videos/dXcd1GZoraY-ReplaceRearviewMirrorGlass-cut off the electric wire.mp4"
+  },
+  {
+    "id": 97,
+    "video_id": "dr8nX",
+    "task": "Wz1Hs",
+    "action": "UseTappingGun-trigger and take out the needle head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='Wz1Hs' and current action='UseTappingGun-trigger and take out the needle head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/dr8nX-Wz1Hs-UseTappingGun-trigger and take out the needle head.jpg",
+    "ground_truth_video": "ground_truth_videos/dr8nX-Wz1Hs-UseTappingGun-trigger and take out the needle head.mp4"
+  },
+  {
+    "id": 98,
+    "video_id": "e1boXSEcj_E",
+    "task": "ChangeTonerCartridge",
+    "action": "take out the toner cartridge",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ChangeTonerCartridge' and current action='take out the toner cartridge'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/e1boXSEcj_E-ChangeTonerCartridge-take out the toner cartridge.jpg",
+    "ground_truth_video": "ground_truth_videos/e1boXSEcj_E-ChangeTonerCartridge-take out the toner cartridge.mp4"
+  },
+  {
+    "id": 99,
+    "video_id": "e4acnwBoOAc",
+    "task": "CutGrapeFruit",
+    "action": "cut both ends and remove fruit seeds",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CutGrapeFruit' and current action='cut both ends and remove fruit seeds'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/e4acnwBoOAc-CutGrapeFruit-cut both ends and remove fruit seeds.jpg",
+    "ground_truth_video": "ground_truth_videos/e4acnwBoOAc-CutGrapeFruit-cut both ends and remove fruit seeds.mp4"
+  },
+  {
+    "id": 100,
+    "video_id": "flVdUcoqU6Y",
+    "task": "UseToaster",
+    "action": "take out the slice of bread",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseToaster' and current action='take out the slice of bread'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/flVdUcoqU6Y-UseToaster-take out the slice of bread.jpg",
+    "ground_truth_video": "ground_truth_videos/flVdUcoqU6Y-UseToaster-take out the slice of bread.mp4"
+  },
+  {
+    "id": 101,
+    "video_id": "fwijEq90zzE",
+    "task": "DoLinoPrinting",
+    "action": "ink the marked area",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='DoLinoPrinting' and current action='ink the marked area'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/fwijEq90zzE-DoLinoPrinting-ink the marked area.jpg",
+    "ground_truth_video": "ground_truth_videos/fwijEq90zzE-DoLinoPrinting-ink the marked area.mp4"
+  },
+  {
+    "id": 102,
+    "video_id": "g7Twg8XXyz8",
+    "task": "CleanWoodenFloor",
+    "action": "mop the floor",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanWoodenFloor' and current action='mop the floor'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/g7Twg8XXyz8-CleanWoodenFloor-mop the floor.jpg",
+    "ground_truth_video": "ground_truth_videos/g7Twg8XXyz8-CleanWoodenFloor-mop the floor.mp4"
+  },
+  {
+    "id": 103,
+    "video_id": "g8etIwpQKVk",
+    "task": "CutGrapeFruit",
+    "action": "cut in half",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CutGrapeFruit' and current action='cut in half'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/g8etIwpQKVk-CutGrapeFruit-cut in half.jpg",
+    "ground_truth_video": "ground_truth_videos/g8etIwpQKVk-CutGrapeFruit-cut in half.mp4"
+  },
+  {
+    "id": 104,
+    "video_id": "h2",
+    "task": "B9L3PLdQ",
+    "action": "ReplaceRefrigeratorWaterFilter-remove the cap of the new filter",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='B9L3PLdQ' and current action='ReplaceRefrigeratorWaterFilter-remove the cap of the new filter'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/h2-B9L3PLdQ-ReplaceRefrigeratorWaterFilter-remove the cap of the new filter.jpg",
+    "ground_truth_video": "ground_truth_videos/h2-B9L3PLdQ-ReplaceRefrigeratorWaterFilter-remove the cap of the new filter.mp4"
+  },
+  {
+    "id": 105,
+    "video_id": "hbfQ7k7Z3aA",
+    "task": "ReplaceLaptopScreen",
+    "action": "take out the battery",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceLaptopScreen' and current action='take out the battery'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/hbfQ7k7Z3aA-ReplaceLaptopScreen-take out the battery.jpg",
+    "ground_truth_video": "ground_truth_videos/hbfQ7k7Z3aA-ReplaceLaptopScreen-take out the battery.mp4"
+  },
+  {
+    "id": 106,
+    "video_id": "irYsVInEBCc",
+    "task": "CleanRustyPot",
+    "action": "add some oil to the pot",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanRustyPot' and current action='add some oil to the pot'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/irYsVInEBCc-CleanRustyPot-add some oil to the pot.jpg",
+    "ground_truth_video": "ground_truth_videos/irYsVInEBCc-CleanRustyPot-add some oil to the pot.mp4"
+  },
+  {
+    "id": 107,
+    "video_id": "kaNwPIzDlok",
+    "task": "UseAnalyticalBalance",
+    "action": "zeroing set",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseAnalyticalBalance' and current action='zeroing set'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/kaNwPIzDlok-UseAnalyticalBalance-zeroing set.jpg",
+    "ground_truth_video": "ground_truth_videos/kaNwPIzDlok-UseAnalyticalBalance-zeroing set.mp4"
+  },
+  {
+    "id": 108,
+    "video_id": "kkEl5KoPZHw",
+    "task": "ReplaceDrumhead",
+    "action": "screw off the screws",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceDrumhead' and current action='screw off the screws'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/kkEl5KoPZHw-ReplaceDrumhead-screw off the screws.jpg",
+    "ground_truth_video": "ground_truth_videos/kkEl5KoPZHw-ReplaceDrumhead-screw off the screws.mp4"
+  },
+  {
+    "id": 109,
+    "video_id": "lORuJzSWVeY",
+    "task": "MakeSoap",
+    "action": "put the melted soap block into the vessel",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeSoap' and current action='put the melted soap block into the vessel'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/lORuJzSWVeY-MakeSoap-put the melted soap block into the vessel.jpg",
+    "ground_truth_video": "ground_truth_videos/lORuJzSWVeY-MakeSoap-put the melted soap block into the vessel.mp4"
+  },
+  {
+    "id": 110,
+    "video_id": "ln89tFgHSZc",
+    "task": "RefillMechanicalPencils",
+    "action": "remove cap",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='RefillMechanicalPencils' and current action='remove cap'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ln89tFgHSZc-RefillMechanicalPencils-remove cap.jpg",
+    "ground_truth_video": "ground_truth_videos/ln89tFgHSZc-RefillMechanicalPencils-remove cap.mp4"
+  },
+  {
+    "id": 111,
+    "video_id": "mHfZqPtX9Lk",
+    "task": "PractisePoleVault",
+    "action": "begin to jump up",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PractisePoleVault' and current action='begin to jump up'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/mHfZqPtX9Lk-PractisePoleVault-begin to jump up.jpg",
+    "ground_truth_video": "ground_truth_videos/mHfZqPtX9Lk-PractisePoleVault-begin to jump up.mp4"
+  },
+  {
+    "id": 112,
+    "video_id": "mI5h4Kp17Dk",
+    "task": "MakeMatchaTea",
+    "action": "add tea powder",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeMatchaTea' and current action='add tea powder'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/mI5h4Kp17Dk-MakeMatchaTea-add tea powder.jpg",
+    "ground_truth_video": "ground_truth_videos/mI5h4Kp17Dk-MakeMatchaTea-add tea powder.mp4"
+  },
+  {
+    "id": 113,
+    "video_id": "mrgg3Bz7S1E",
+    "task": "CleanFish",
+    "action": "cut the head",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='CleanFish' and current action='cut the head'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/mrgg3Bz7S1E-CleanFish-cut the head.jpg",
+    "ground_truth_video": "ground_truth_videos/mrgg3Bz7S1E-CleanFish-cut the head.mp4"
+  },
+  {
+    "id": 114,
+    "video_id": "mysHiP3",
+    "task": "PHg",
+    "action": "ChangeTonerCartridge-open the front door or cover of the printer",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PHg' and current action='ChangeTonerCartridge-open the front door or cover of the printer'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/mysHiP3-PHg-ChangeTonerCartridge-open the front door or cover of the printer.jpg",
+    "ground_truth_video": "ground_truth_videos/mysHiP3-PHg-ChangeTonerCartridge-open the front door or cover of the printer.mp4"
+  },
+  {
+    "id": 115,
+    "video_id": "nAsrsMPftOI",
+    "task": "MakeTea",
+    "action": "add some ingredients to the tea",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeTea' and current action='add some ingredients to the tea'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/nAsrsMPftOI-MakeTea-add some ingredients to the tea.jpg",
+    "ground_truth_video": "ground_truth_videos/nAsrsMPftOI-MakeTea-add some ingredients to the tea.mp4"
+  },
+  {
+    "id": 116,
+    "video_id": "oVnLHgIXEO8",
+    "task": "OperateFireExtinguisher",
+    "action": "pull out the insurance ring",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='OperateFireExtinguisher' and current action='pull out the insurance ring'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/oVnLHgIXEO8-OperateFireExtinguisher-pull out the insurance ring.jpg",
+    "ground_truth_video": "ground_truth_videos/oVnLHgIXEO8-OperateFireExtinguisher-pull out the insurance ring.mp4"
+  },
+  {
+    "id": 117,
+    "video_id": "ozrd9Zxc8x4",
+    "task": "ReplaceRefrigeratorWaterFilter",
+    "action": "take out the old filter",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceRefrigeratorWaterFilter' and current action='take out the old filter'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ozrd9Zxc8x4-ReplaceRefrigeratorWaterFilter-take out the old filter.jpg",
+    "ground_truth_video": "ground_truth_videos/ozrd9Zxc8x4-ReplaceRefrigeratorWaterFilter-take out the old filter.mp4"
+  },
+  {
+    "id": 118,
+    "video_id": "pUkE6StmGL0",
+    "task": "ReplaceToiletSeat",
+    "action": "install the new toilet seat",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceToiletSeat' and current action='install the new toilet seat'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/pUkE6StmGL0-ReplaceToiletSeat-install the new toilet seat.jpg",
+    "ground_truth_video": "ground_truth_videos/pUkE6StmGL0-ReplaceToiletSeat-install the new toilet seat.mp4"
+  },
+  {
+    "id": 119,
+    "video_id": "pw89Ed5AdLo",
+    "task": "ReplaceBatteryOnTVControl",
+    "action": "open cover",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceBatteryOnTVControl' and current action='open cover'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/pw89Ed5AdLo-ReplaceBatteryOnTVControl-open cover.jpg",
+    "ground_truth_video": "ground_truth_videos/pw89Ed5AdLo-ReplaceBatteryOnTVControl-open cover.mp4"
+  },
+  {
+    "id": 120,
+    "video_id": "pw89Ed5AdLo",
+    "task": "ReplaceBatteryOnTVControl",
+    "action": "remove battery",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceBatteryOnTVControl' and current action='remove battery'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/pw89Ed5AdLo-ReplaceBatteryOnTVControl-remove battery.jpg",
+    "ground_truth_video": "ground_truth_videos/pw89Ed5AdLo-ReplaceBatteryOnTVControl-remove battery.mp4"
+  },
+  {
+    "id": 121,
+    "video_id": "qARm_c77mlU",
+    "task": "ReplaceRefrigeratorWaterFilter",
+    "action": "remove the cap of the new filter",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceRefrigeratorWaterFilter' and current action='remove the cap of the new filter'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/qARm_c77mlU-ReplaceRefrigeratorWaterFilter-remove the cap of the new filter.jpg",
+    "ground_truth_video": "ground_truth_videos/qARm_c77mlU-ReplaceRefrigeratorWaterFilter-remove the cap of the new filter.mp4"
+  },
+  {
+    "id": 122,
+    "video_id": "qorl6rKLmRs",
+    "task": "UseVolumetricPipette",
+    "action": "calibrate the liquid",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseVolumetricPipette' and current action='calibrate the liquid'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/qorl6rKLmRs-UseVolumetricPipette-calibrate the liquid.jpg",
+    "ground_truth_video": "ground_truth_videos/qorl6rKLmRs-UseVolumetricPipette-calibrate the liquid.mp4"
+  },
+  {
+    "id": 123,
+    "video_id": "rLhsLgq0bbE",
+    "task": "ReplaceSIMCard",
+    "action": "put the SIM card into the SIM card slot",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceSIMCard' and current action='put the SIM card into the SIM card slot'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/rLhsLgq0bbE-ReplaceSIMCard-put the SIM card into the SIM card slot.jpg",
+    "ground_truth_video": "ground_truth_videos/rLhsLgq0bbE-ReplaceSIMCard-put the SIM card into the SIM card slot.mp4"
+  },
+  {
+    "id": 124,
+    "video_id": "rVLW0anqZng",
+    "task": "AttendNBASkillsChallenge",
+    "action": "dribble and lay up",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='AttendNBASkillsChallenge' and current action='dribble and lay up'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/rVLW0anqZng-AttendNBASkillsChallenge-dribble and lay up.jpg",
+    "ground_truth_video": "ground_truth_videos/rVLW0anqZng-AttendNBASkillsChallenge-dribble and lay up.mp4"
+  },
+  {
+    "id": 125,
+    "video_id": "ramzEoBjcV4",
+    "task": "MakeMatchaTea",
+    "action": "add tea powder",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeMatchaTea' and current action='add tea powder'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/ramzEoBjcV4-MakeMatchaTea-add tea powder.jpg",
+    "ground_truth_video": "ground_truth_videos/ramzEoBjcV4-MakeMatchaTea-add tea powder.mp4"
+  },
+  {
+    "id": 126,
+    "video_id": "seEQ06",
+    "task": "UKdA",
+    "action": "LoadGreaseGun-pull out a lock lever at bottom of gun",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UKdA' and current action='LoadGreaseGun-pull out a lock lever at bottom of gun'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/seEQ06-UKdA-LoadGreaseGun-pull out a lock lever at bottom of gun.jpg",
+    "ground_truth_video": "ground_truth_videos/seEQ06-UKdA-LoadGreaseGun-pull out a lock lever at bottom of gun.mp4"
+  },
+  {
+    "id": 127,
+    "video_id": "tmPiqK9jm7Y",
+    "task": "MakePizza",
+    "action": "bake pizza",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakePizza' and current action='bake pizza'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/tmPiqK9jm7Y-MakePizza-bake pizza.jpg",
+    "ground_truth_video": "ground_truth_videos/tmPiqK9jm7Y-MakePizza-bake pizza.mp4"
+  },
+  {
+    "id": 128,
+    "video_id": "uDOtcVtxURc",
+    "task": "MakeCocktail",
+    "action": "pour in after mix it",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeCocktail' and current action='pour in after mix it'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/uDOtcVtxURc-MakeCocktail-pour in after mix it.jpg",
+    "ground_truth_video": "ground_truth_videos/uDOtcVtxURc-MakeCocktail-pour in after mix it.mp4"
+  },
+  {
+    "id": 129,
+    "video_id": "uRU7d0WjC3A",
+    "task": "MakeBurger",
+    "action": "knead the meat",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeBurger' and current action='knead the meat'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/uRU7d0WjC3A-MakeBurger-knead the meat.jpg",
+    "ground_truth_video": "ground_truth_videos/uRU7d0WjC3A-MakeBurger-knead the meat.mp4"
+  },
+  {
+    "id": 130,
+    "video_id": "uavCHN_k0Lk",
+    "task": "MakeMatchaTea",
+    "action": "add tea powder",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeMatchaTea' and current action='add tea powder'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/uavCHN_k0Lk-MakeMatchaTea-add tea powder.jpg",
+    "ground_truth_video": "ground_truth_videos/uavCHN_k0Lk-MakeMatchaTea-add tea powder.mp4"
+  },
+  {
+    "id": 131,
+    "video_id": "vij2GHVfEII",
+    "task": "UseToaster",
+    "action": "run the toaster and adjust",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='UseToaster' and current action='run the toaster and adjust'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/vij2GHVfEII-UseToaster-run the toaster and adjust.jpg",
+    "ground_truth_video": "ground_truth_videos/vij2GHVfEII-UseToaster-run the toaster and adjust.mp4"
+  },
+  {
+    "id": 132,
+    "video_id": "wWWmMQ1WII4",
+    "task": "HangWallpaper",
+    "action": "apply glue to the wall and wallpaper",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='HangWallpaper' and current action='apply glue to the wall and wallpaper'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/wWWmMQ1WII4-HangWallpaper-apply glue to the wall and wallpaper.jpg",
+    "ground_truth_video": "ground_truth_videos/wWWmMQ1WII4-HangWallpaper-apply glue to the wall and wallpaper.mp4"
+  },
+  {
+    "id": 133,
+    "video_id": "wlO7ay8i88U",
+    "task": "PasteScreenProtectorOnPad",
+    "action": "wipe screen again",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PasteScreenProtectorOnPad' and current action='wipe screen again'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/wlO7ay8i88U-PasteScreenProtectorOnPad-wipe screen again.jpg",
+    "ground_truth_video": "ground_truth_videos/wlO7ay8i88U-PasteScreenProtectorOnPad-wipe screen again.mp4"
+  },
+  {
+    "id": 134,
+    "video_id": "xIO7_iDjDBs",
+    "task": "DoLinoPrinting",
+    "action": "transfer pattern to board or tarpaulin",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='DoLinoPrinting' and current action='transfer pattern to board or tarpaulin'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/xIO7_iDjDBs-DoLinoPrinting-transfer pattern to board or tarpaulin.jpg",
+    "ground_truth_video": "ground_truth_videos/xIO7_iDjDBs-DoLinoPrinting-transfer pattern to board or tarpaulin.mp4"
+  },
+  {
+    "id": 135,
+    "video_id": "xYSH9rNipaU",
+    "task": "MakeRJ45Cable",
+    "action": "cut a certain length",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeRJ45Cable' and current action='cut a certain length'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/xYSH9rNipaU-MakeRJ45Cable-cut a certain length.jpg",
+    "ground_truth_video": "ground_truth_videos/xYSH9rNipaU-MakeRJ45Cable-cut a certain length.mp4"
+  },
+  {
+    "id": 136,
+    "video_id": "xeeVgnnBHXY",
+    "task": "ReplaceABulb",
+    "action": "take out the old bulb",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceABulb' and current action='take out the old bulb'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/xeeVgnnBHXY-ReplaceABulb-take out the old bulb.jpg",
+    "ground_truth_video": "ground_truth_videos/xeeVgnnBHXY-ReplaceABulb-take out the old bulb.mp4"
+  },
+  {
+    "id": 137,
+    "video_id": "xh1AlY9L35I",
+    "task": "MakeYoutiao",
+    "action": "cut into strips",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeYoutiao' and current action='cut into strips'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/xh1AlY9L35I-MakeYoutiao-cut into strips.jpg",
+    "ground_truth_video": "ground_truth_videos/xh1AlY9L35I-MakeYoutiao-cut into strips.mp4"
+  },
+  {
+    "id": 138,
+    "video_id": "y0g3vwWkqf8",
+    "task": "ReplaceSewingMachineNeedle",
+    "action": "screw on the screw",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceSewingMachineNeedle' and current action='screw on the screw'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/y0g3vwWkqf8-ReplaceSewingMachineNeedle-screw on the screw.jpg",
+    "ground_truth_video": "ground_truth_videos/y0g3vwWkqf8-ReplaceSewingMachineNeedle-screw on the screw.mp4"
+  },
+  {
+    "id": 139,
+    "video_id": "zOUVSXdPZFw",
+    "task": "MakeChocolate",
+    "action": "mix raw materials",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='MakeChocolate' and current action='mix raw materials'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/zOUVSXdPZFw-MakeChocolate-mix raw materials.jpg",
+    "ground_truth_video": "ground_truth_videos/zOUVSXdPZFw-MakeChocolate-mix raw materials.mp4"
+  },
+  {
+    "id": 140,
+    "video_id": "zWnSJlF5YtM",
+    "task": "ReplaceHardDisk",
+    "action": "remove the old hard disk",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='ReplaceHardDisk' and current action='remove the old hard disk'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/zWnSJlF5YtM-ReplaceHardDisk-remove the old hard disk.jpg",
+    "ground_truth_video": "ground_truth_videos/zWnSJlF5YtM-ReplaceHardDisk-remove the old hard disk.mp4"
+  },
+  {
+    "id": 141,
+    "video_id": "zoNd5jugaVY",
+    "task": "PitchATent",
+    "action": "set up the platfond",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PitchATent' and current action='set up the platfond'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/zoNd5jugaVY-PitchATent-set up the platfond.jpg",
+    "ground_truth_video": "ground_truth_videos/zoNd5jugaVY-PitchATent-set up the platfond.mp4"
+  },
+  {
+    "id": 142,
+    "video_id": "zomjIJTBdSM",
+    "task": "PolishCar",
+    "action": "apply polishing paste on the surface",
+    "prompt": "You are given the current world state (image) which shows the beginning of a action in a task. The current task='PolishCar' and current action='apply polishing paste on the surface'. Given the current state and that action, predict the subsequent world state after this action completes. Describe expected visual changes, objects' new positions, and any consequences relevant to the task.",
+    "input_image": "first_frame/zomjIJTBdSM-PolishCar-apply polishing paste on the surface.jpg",
+    "ground_truth_video": "ground_truth_videos/zomjIJTBdSM-PolishCar-apply polishing paste on the surface.mp4"
+  }
+]

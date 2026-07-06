@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 0,
+    "video_id": "AUTOLab_44bb9c36_2023_11_23_17h_08m_17s",
+    "action": "Remove_the_t_shirts_and_yellow_towel_from_the_back",
+    "input_image": "first_frame/droid-AUTOLab_44bb9c36_2023_11_23_17h_08m_17s-Remove_the_t_shirts_and_yellow_towel_from_the_back.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_44bb9c36_2023_11_23_17h_08m_17s-Remove_the_t_shirts_and_yellow_towel_from_the_back.mp4"
+  },
+  {
+    "id": 1,
+    "video_id": "AUTOLab_5d05c5aa_2023_10_14_19h_57m_40s",
+    "action": "Put_the_grey_object_and_the_plastic_inside_the_ope",
+    "input_image": "first_frame/droid-AUTOLab_5d05c5aa_2023_10_14_19h_57m_40s-Put_the_grey_object_and_the_plastic_inside_the_ope.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_5d05c5aa_2023_10_14_19h_57m_40s-Put_the_grey_object_and_the_plastic_inside_the_ope.mp4"
+  },
+  {
+    "id": 2,
+    "video_id": "AUTOLab_5d05c5aa_2023_10_15_18h_41m_07s",
+    "action": "Pick_up_the_black_cable_and_put_it_in_the_tool_box",
+    "input_image": "first_frame/droid-AUTOLab_5d05c5aa_2023_10_15_18h_41m_07s-Pick_up_the_black_cable_and_put_it_in_the_tool_box.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_5d05c5aa_2023_10_15_18h_41m_07s-Pick_up_the_black_cable_and_put_it_in_the_tool_box.mp4"
+  },
+  {
+    "id": 3,
+    "video_id": "AUTOLab_5d05c5aa_2023_11_12_23h_02m_44s",
+    "action": "Put_the_bottles_and_the_orange_object_around_the_p",
+    "input_image": "first_frame/droid-AUTOLab_5d05c5aa_2023_11_12_23h_02m_44s-Put_the_bottles_and_the_orange_object_around_the_p.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_5d05c5aa_2023_11_12_23h_02m_44s-Put_the_bottles_and_the_orange_object_around_the_p.mp4"
+  },
+  {
+    "id": 4,
+    "video_id": "AUTOLab_5d05c5aa_2023_11_17_23h_36m_00s",
+    "action": "Pick_the_bottles_and_objects_on_the_table_and_put_",
+    "input_image": "first_frame/droid-AUTOLab_5d05c5aa_2023_11_17_23h_36m_00s-Pick_the_bottles_and_objects_on_the_table_and_put_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_5d05c5aa_2023_11_17_23h_36m_00s-Pick_the_bottles_and_objects_on_the_table_and_put_.mp4"
+  },
+  {
+    "id": 5,
+    "video_id": "AUTOLab_7cb094d5_2023_12_14_19h_18m_31s",
+    "action": "Stack_the_cups_together.",
+    "input_image": "first_frame/droid-AUTOLab_7cb094d5_2023_12_14_19h_18m_31s-Stack_the_cups_together..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_7cb094d5_2023_12_14_19h_18m_31s-Stack_the_cups_together..mp4"
+  },
+  {
+    "id": 6,
+    "video_id": "AUTOLab_7cb094d5_2023_12_15_16h_10m_03s",
+    "action": "Flip_and_spread_the_laundry_on_top_of_the_laundry_",
+    "input_image": "first_frame/droid-AUTOLab_7cb094d5_2023_12_15_16h_10m_03s-Flip_and_spread_the_laundry_on_top_of_the_laundry_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_7cb094d5_2023_12_15_16h_10m_03s-Flip_and_spread_the_laundry_on_top_of_the_laundry_.mp4"
+  },
+  {
+    "id": 7,
+    "video_id": "AUTOLab_84bd5053_2023_07_27_10h_20m_16s",
+    "action": "Pick_up_the_orange_cup_and_place_it_inside_the_bow",
+    "input_image": "first_frame/droid-AUTOLab_84bd5053_2023_07_27_10h_20m_16s-Pick_up_the_orange_cup_and_place_it_inside_the_bow.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_84bd5053_2023_07_27_10h_20m_16s-Pick_up_the_orange_cup_and_place_it_inside_the_bow.mp4"
+  },
+  {
+    "id": 8,
+    "video_id": "AUTOLab_9aed6d7a_2023_11_16_13h_57m_43s",
+    "action": "Put_three_round_orange_blocks_in_the_white_cup,_th",
+    "input_image": "first_frame/droid-AUTOLab_9aed6d7a_2023_11_16_13h_57m_43s-Put_three_round_orange_blocks_in_the_white_cup,_th.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_9aed6d7a_2023_11_16_13h_57m_43s-Put_three_round_orange_blocks_in_the_white_cup,_th.mp4"
+  },
+  {
+    "id": 9,
+    "video_id": "AUTOLab_9aed6d7a_2023_11_16_16h_43m_10s",
+    "action": "Pick_up_the_clothes_from_the_headrest_of_the_chair",
+    "input_image": "first_frame/droid-AUTOLab_9aed6d7a_2023_11_16_16h_43m_10s-Pick_up_the_clothes_from_the_headrest_of_the_chair.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_9aed6d7a_2023_11_16_16h_43m_10s-Pick_up_the_clothes_from_the_headrest_of_the_chair.mp4"
+  },
+  {
+    "id": 10,
+    "video_id": "AUTOLab_9aed6d7a_2023_11_22_13h_41m_12s",
+    "action": "Move_the_middle_of_the_rope_to_the_right",
+    "input_image": "first_frame/droid-AUTOLab_9aed6d7a_2023_11_22_13h_41m_12s-Move_the_middle_of_the_rope_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_9aed6d7a_2023_11_22_13h_41m_12s-Move_the_middle_of_the_rope_to_the_right.mp4"
+  },
+  {
+    "id": 11,
+    "video_id": "AUTOLab_cf2a60c6_2023_11_21_11h_09m_52s",
+    "action": "Move_the_ball_to_the_right",
+    "input_image": "first_frame/droid-AUTOLab_cf2a60c6_2023_11_21_11h_09m_52s-Move_the_ball_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_cf2a60c6_2023_11_21_11h_09m_52s-Move_the_ball_to_the_right.mp4"
+  },
+  {
+    "id": 12,
+    "video_id": "AUTOLab_cf2a60c6_2023_12_17_13h_37m_57s",
+    "action": "Put_the_charging_cable_inside_the_bag_then_put_the",
+    "input_image": "first_frame/droid-AUTOLab_cf2a60c6_2023_12_17_13h_37m_57s-Put_the_charging_cable_inside_the_bag_then_put_the.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-AUTOLab_cf2a60c6_2023_12_17_13h_37m_57s-Put_the_charging_cable_inside_the_bag_then_put_the.mp4"
+  },
+  {
+    "id": 13,
+    "video_id": "BVL_be856380_2024_01_30_19h_08m_12s",
+    "action": "Put_the_pink_block_on_the_grey_block_and_then_put_",
+    "input_image": "first_frame/droid-BVL_be856380_2024_01_30_19h_08m_12s-Put_the_pink_block_on_the_grey_block_and_then_put_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-BVL_be856380_2024_01_30_19h_08m_12s-Put_the_pink_block_on_the_grey_block_and_then_put_.mp4"
+  },
+  {
+    "id": 14,
+    "video_id": "BVL_be856380_2024_01_31_20h_30m_24s",
+    "action": "Put_the_blue_block_on_the_dark_green_block",
+    "input_image": "first_frame/droid-BVL_be856380_2024_01_31_20h_30m_24s-Put_the_blue_block_on_the_dark_green_block.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-BVL_be856380_2024_01_31_20h_30m_24s-Put_the_blue_block_on_the_dark_green_block.mp4"
+  },
+  {
+    "id": 15,
+    "video_id": "BVL_be856380_2024_01_31_21h_30m_45s",
+    "action": "Put_the_block_inside_the_box",
+    "input_image": "first_frame/droid-BVL_be856380_2024_01_31_21h_30m_45s-Put_the_block_inside_the_box.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-BVL_be856380_2024_01_31_21h_30m_45s-Put_the_block_inside_the_box.mp4"
+  },
+  {
+    "id": 16,
+    "video_id": "BVL_be856380_2024_02_16_22h_41m_29s",
+    "action": "Put_the_orange_block_into_the_sink",
+    "input_image": "first_frame/droid-BVL_be856380_2024_02_16_22h_41m_29s-Put_the_orange_block_into_the_sink.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-BVL_be856380_2024_02_16_22h_41m_29s-Put_the_orange_block_into_the_sink.mp4"
+  },
+  {
+    "id": 17,
+    "video_id": "BVL_be856380_2024_02_17_20h_34m_43s",
+    "action": "Pick_up_the_yellow_duck_toy_and_put_it_in_the_gree",
+    "input_image": "first_frame/droid-BVL_be856380_2024_02_17_20h_34m_43s-Pick_up_the_yellow_duck_toy_and_put_it_in_the_gree.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-BVL_be856380_2024_02_17_20h_34m_43s-Pick_up_the_yellow_duck_toy_and_put_it_in_the_gree.mp4"
+  },
+  {
+    "id": 18,
+    "video_id": "BVL_be856380_2024_02_17_22h_16m_28s",
+    "action": "Put_the_orange_toy_in_the_bowl",
+    "input_image": "first_frame/droid-BVL_be856380_2024_02_17_22h_16m_28s-Put_the_orange_toy_in_the_bowl.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-BVL_be856380_2024_02_17_22h_16m_28s-Put_the_orange_toy_in_the_bowl.mp4"
+  },
+  {
+    "id": 19,
+    "video_id": "CLVR_13759f6e_2023_05_16_15h_02m_05s",
+    "action": "Put_the_marker_in_the_cup",
+    "input_image": "first_frame/droid-CLVR_13759f6e_2023_05_16_15h_02m_05s-Put_the_marker_in_the_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-CLVR_13759f6e_2023_05_16_15h_02m_05s-Put_the_marker_in_the_cup.mp4"
+  },
+  {
+    "id": 20,
+    "video_id": "CLVR_13759f6e_2023_06_13_01h_12m_56s",
+    "action": "Open_the_sliding_lid_on_the_travel_mug",
+    "input_image": "first_frame/droid-CLVR_13759f6e_2023_06_13_01h_12m_56s-Open_the_sliding_lid_on_the_travel_mug.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-CLVR_13759f6e_2023_06_13_01h_12m_56s-Open_the_sliding_lid_on_the_travel_mug.mp4"
+  },
+  {
+    "id": 21,
+    "video_id": "CLVR_236539bc_2023_05_29_21h_44m_34s",
+    "action": "Pick_the_cloth_on_the_table_and_put_it_on_the_blac",
+    "input_image": "first_frame/droid-CLVR_236539bc_2023_05_29_21h_44m_34s-Pick_the_cloth_on_the_table_and_put_it_on_the_blac.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-CLVR_236539bc_2023_05_29_21h_44m_34s-Pick_the_cloth_on_the_table_and_put_it_on_the_blac.mp4"
+  },
+  {
+    "id": 22,
+    "video_id": "CLVR_236539bc_2023_05_30_01h_28m_31s",
+    "action": "Put_the_lid_on_the_spray_bottle",
+    "input_image": "first_frame/droid-CLVR_236539bc_2023_05_30_01h_28m_31s-Put_the_lid_on_the_spray_bottle.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-CLVR_236539bc_2023_05_30_01h_28m_31s-Put_the_lid_on_the_spray_bottle.mp4"
+  },
+  {
+    "id": 23,
+    "video_id": "GuptaLab_553d1bd5_2023_04_30_14h_24m_06s",
+    "action": "Place_the_mug_to_the_left_of_the_side",
+    "input_image": "first_frame/droid-GuptaLab_553d1bd5_2023_04_30_14h_24m_06s-Place_the_mug_to_the_left_of_the_side.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-GuptaLab_553d1bd5_2023_04_30_14h_24m_06s-Place_the_mug_to_the_left_of_the_side.mp4"
+  },
+  {
+    "id": 24,
+    "video_id": "GuptaLab_553d1bd5_2023_05_19_10h_42m_31s",
+    "action": "Put_the_orange_block_on_the_green_block",
+    "input_image": "first_frame/droid-GuptaLab_553d1bd5_2023_05_19_10h_42m_31s-Put_the_orange_block_on_the_green_block.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-GuptaLab_553d1bd5_2023_05_19_10h_42m_31s-Put_the_orange_block_on_the_green_block.mp4"
+  },
+  {
+    "id": 25,
+    "video_id": "GuptaLab_553d1bd5_2023_05_28_18h_44m_57s",
+    "action": "Close_the_bottom_drawer",
+    "input_image": "first_frame/droid-GuptaLab_553d1bd5_2023_05_28_18h_44m_57s-Close_the_bottom_drawer.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-GuptaLab_553d1bd5_2023_05_28_18h_44m_57s-Close_the_bottom_drawer.mp4"
+  },
+  {
+    "id": 26,
+    "video_id": "GuptaLab_553d1bd5_2023_06_18_16h_47m_10s",
+    "action": "Close_the_upper_drawer",
+    "input_image": "first_frame/droid-GuptaLab_553d1bd5_2023_06_18_16h_47m_10s-Close_the_upper_drawer.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-GuptaLab_553d1bd5_2023_06_18_16h_47m_10s-Close_the_upper_drawer.mp4"
+  },
+  {
+    "id": 27,
+    "video_id": "ILIAD_50aee79f_2023_08_16_11h_13m_21s",
+    "action": "Put_the_glass_lid_on_top_of_the_black_pot",
+    "input_image": "first_frame/droid-ILIAD_50aee79f_2023_08_16_11h_13m_21s-Put_the_glass_lid_on_top_of_the_black_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_50aee79f_2023_08_16_11h_13m_21s-Put_the_glass_lid_on_top_of_the_black_pot.mp4"
+  },
+  {
+    "id": 28,
+    "video_id": "ILIAD_5e938e3b_2023_07_18_12h_15m_31s",
+    "action": "Pick_up_the_belt_from_the_armchair_and_move_it_to_",
+    "input_image": "first_frame/droid-ILIAD_5e938e3b_2023_07_18_12h_15m_31s-Pick_up_the_belt_from_the_armchair_and_move_it_to_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_5e938e3b_2023_07_18_12h_15m_31s-Pick_up_the_belt_from_the_armchair_and_move_it_to_.mp4"
+  },
+  {
+    "id": 29,
+    "video_id": "ILIAD_5e938e3b_2023_07_20_12h_45m_38s",
+    "action": "Take_the_yellow_object_and_place_it_in_the_black_b",
+    "input_image": "first_frame/droid-ILIAD_5e938e3b_2023_07_20_12h_45m_38s-Take_the_yellow_object_and_place_it_in_the_black_b.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_5e938e3b_2023_07_20_12h_45m_38s-Take_the_yellow_object_and_place_it_in_the_black_b.mp4"
+  },
+  {
+    "id": 30,
+    "video_id": "ILIAD_7ae1bcff_2023_05_12_16h_25m_17s",
+    "action": "Pick_up_the_marker_and_put_it_in_the_cup",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_12_16h_25m_17s-Pick_up_the_marker_and_put_it_in_the_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_12_16h_25m_17s-Pick_up_the_marker_and_put_it_in_the_cup.mp4"
+  },
+  {
+    "id": 31,
+    "video_id": "ILIAD_7ae1bcff_2023_05_22_17h_09m_40s",
+    "action": "Put_one_cup_in_the_silver_pot",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_22_17h_09m_40s-Put_one_cup_in_the_silver_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_22_17h_09m_40s-Put_one_cup_in_the_silver_pot.mp4"
+  },
+  {
+    "id": 32,
+    "video_id": "ILIAD_7ae1bcff_2023_05_22_17h_48m_45s",
+    "action": "Put_the_coffee_pod_inside_the_coffeemaker",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_22_17h_48m_45s-Put_the_coffee_pod_inside_the_coffeemaker.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_22_17h_48m_45s-Put_the_coffee_pod_inside_the_coffeemaker.mp4"
+  },
+  {
+    "id": 33,
+    "video_id": "ILIAD_7ae1bcff_2023_05_25_19h_11m_02s",
+    "action": "Put_the_wooden_block_on_the_tool_box",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_25_19h_11m_02s-Put_the_wooden_block_on_the_tool_box.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_25_19h_11m_02s-Put_the_wooden_block_on_the_tool_box.mp4"
+  },
+  {
+    "id": 34,
+    "video_id": "ILIAD_7ae1bcff_2023_05_28_22h_14m_09s",
+    "action": "Hang_the_objects_on_the_slat_wall",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_28_22h_14m_09s-Hang_the_objects_on_the_slat_wall.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_28_22h_14m_09s-Hang_the_objects_on_the_slat_wall.mp4"
+  },
+  {
+    "id": 35,
+    "video_id": "ILIAD_7ae1bcff_2023_05_29_20h_01m_15s",
+    "action": "Pour_the_things_in_the_blue_cup_onto_the_plate",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_29_20h_01m_15s-Pour_the_things_in_the_blue_cup_onto_the_plate.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_29_20h_01m_15s-Pour_the_things_in_the_blue_cup_onto_the_plate.mp4"
+  },
+  {
+    "id": 36,
+    "video_id": "ILIAD_7ae1bcff_2023_05_29_20h_59m_24s",
+    "action": "Put_the_black_lid_on_the_gray_pot",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_29_20h_59m_24s-Put_the_black_lid_on_the_gray_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_29_20h_59m_24s-Put_the_black_lid_on_the_gray_pot.mp4"
+  },
+  {
+    "id": 37,
+    "video_id": "ILIAD_7ae1bcff_2023_05_31_17h_34m_55s",
+    "action": "Move_the_orange_object_into_the_colourless_bowl",
+    "input_image": "first_frame/droid-ILIAD_7ae1bcff_2023_05_31_17h_34m_55s-Move_the_orange_object_into_the_colourless_bowl.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_7ae1bcff_2023_05_31_17h_34m_55s-Move_the_orange_object_into_the_colourless_bowl.mp4"
+  },
+  {
+    "id": 38,
+    "video_id": "ILIAD_j807b3f8_2023_06_11_16h_19m_54s",
+    "action": "Remove_the_knife_from_the_dish_rack_and_put_it_in_",
+    "input_image": "first_frame/droid-ILIAD_j807b3f8_2023_06_11_16h_19m_54s-Remove_the_knife_from_the_dish_rack_and_put_it_in_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_j807b3f8_2023_06_11_16h_19m_54s-Remove_the_knife_from_the_dish_rack_and_put_it_in_.mp4"
+  },
+  {
+    "id": 39,
+    "video_id": "ILIAD_j807b3f8_2023_06_12_19h_11m_37s",
+    "action": "Move_the_stack_of_blocks_to_the_right_and_stack_tw",
+    "input_image": "first_frame/droid-ILIAD_j807b3f8_2023_06_12_19h_11m_37s-Move_the_stack_of_blocks_to_the_right_and_stack_tw.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_j807b3f8_2023_06_12_19h_11m_37s-Move_the_stack_of_blocks_to_the_right_and_stack_tw.mp4"
+  },
+  {
+    "id": 40,
+    "video_id": "ILIAD_sbd7d2c6_2023_05_17_17h_44m_40s",
+    "action": "Move_the_yellow_basket_forward",
+    "input_image": "first_frame/droid-ILIAD_sbd7d2c6_2023_05_17_17h_44m_40s-Move_the_yellow_basket_forward.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-ILIAD_sbd7d2c6_2023_05_17_17h_44m_40s-Move_the_yellow_basket_forward.mp4"
+  },
+  {
+    "id": 41,
+    "video_id": "IPRL_2fe9715d_2023_08_23_12h_17m_54s",
+    "action": "Pick_the_wooden_spatula_on_the_stove_and_put_it_in",
+    "input_image": "first_frame/droid-IPRL_2fe9715d_2023_08_23_12h_17m_54s-Pick_the_wooden_spatula_on_the_stove_and_put_it_in.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_2fe9715d_2023_08_23_12h_17m_54s-Pick_the_wooden_spatula_on_the_stove_and_put_it_in.mp4"
+  },
+  {
+    "id": 42,
+    "video_id": "IPRL_2fe9715d_2023_08_24_21h_35m_14s",
+    "action": "Move_the_purple_cloth_to_the_left_side_of_the_desk",
+    "input_image": "first_frame/droid-IPRL_2fe9715d_2023_08_24_21h_35m_14s-Move_the_purple_cloth_to_the_left_side_of_the_desk.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_2fe9715d_2023_08_24_21h_35m_14s-Move_the_purple_cloth_to_the_left_side_of_the_desk.mp4"
+  },
+  {
+    "id": 43,
+    "video_id": "IPRL_7790ec0a_2023_04_21_21h_02m_16s",
+    "action": "Close_the_bottom_file_cabinet_drawer_to_the_right",
+    "input_image": "first_frame/droid-IPRL_7790ec0a_2023_04_21_21h_02m_16s-Close_the_bottom_file_cabinet_drawer_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_7790ec0a_2023_04_21_21h_02m_16s-Close_the_bottom_file_cabinet_drawer_to_the_right.mp4"
+  },
+  {
+    "id": 44,
+    "video_id": "IPRL_7790ec0a_2023_04_30_18h_56m_40s",
+    "action": "Pick_the_heat_gun_and_put_it_on_the_counter",
+    "input_image": "first_frame/droid-IPRL_7790ec0a_2023_04_30_18h_56m_40s-Pick_the_heat_gun_and_put_it_on_the_counter.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_7790ec0a_2023_04_30_18h_56m_40s-Pick_the_heat_gun_and_put_it_on_the_counter.mp4"
+  },
+  {
+    "id": 45,
+    "video_id": "IPRL_7790ec0a_2023_04_30_19h_16m_29s",
+    "action": "Remove_the_egg_from_the_egg_holder_and_put_it_on_t",
+    "input_image": "first_frame/droid-IPRL_7790ec0a_2023_04_30_19h_16m_29s-Remove_the_egg_from_the_egg_holder_and_put_it_on_t.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_7790ec0a_2023_04_30_19h_16m_29s-Remove_the_egg_from_the_egg_holder_and_put_it_on_t.mp4"
+  },
+  {
+    "id": 46,
+    "video_id": "IPRL_7790ec0a_2023_06_18_21h_59m_51s",
+    "action": "Turn_on_the_switch_on_the_wall.",
+    "input_image": "first_frame/droid-IPRL_7790ec0a_2023_06_18_21h_59m_51s-Turn_on_the_switch_on_the_wall..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_7790ec0a_2023_06_18_21h_59m_51s-Turn_on_the_switch_on_the_wall..mp4"
+  },
+  {
+    "id": 47,
+    "video_id": "IPRL_7790ec0a_2023_06_26_23h_12m_44s",
+    "action": "Switch_off_the_light",
+    "input_image": "first_frame/droid-IPRL_7790ec0a_2023_06_26_23h_12m_44s-Switch_off_the_light.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_7790ec0a_2023_06_26_23h_12m_44s-Switch_off_the_light.mp4"
+  },
+  {
+    "id": 48,
+    "video_id": "IPRL_7790ec0a_2023_06_30_17h_22m_12s",
+    "action": "Close_the_top_cabinet_door",
+    "input_image": "first_frame/droid-IPRL_7790ec0a_2023_06_30_17h_22m_12s-Close_the_top_cabinet_door.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_7790ec0a_2023_06_30_17h_22m_12s-Close_the_top_cabinet_door.mp4"
+  },
+  {
+    "id": 49,
+    "video_id": "IPRL_edf28ef3_2023_12_18_15h_53m_38s",
+    "action": "Turn_off_the_light",
+    "input_image": "first_frame/droid-IPRL_edf28ef3_2023_12_18_15h_53m_38s-Turn_off_the_light.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_edf28ef3_2023_12_18_15h_53m_38s-Turn_off_the_light.mp4"
+  },
+  {
+    "id": 50,
+    "video_id": "IPRL_edf28ef3_2023_12_18_17h_02m_47s",
+    "action": "Flip_the_switch_to_turn_on_the_light",
+    "input_image": "first_frame/droid-IPRL_edf28ef3_2023_12_18_17h_02m_47s-Flip_the_switch_to_turn_on_the_light.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_edf28ef3_2023_12_18_17h_02m_47s-Flip_the_switch_to_turn_on_the_light.mp4"
+  },
+  {
+    "id": 51,
+    "video_id": "IPRL_w026bb9b_2023_09_22_12h_26m_19s",
+    "action": "Put_the_object_on_the_table_into_the_basket_then_t",
+    "input_image": "first_frame/droid-IPRL_w026bb9b_2023_09_22_12h_26m_19s-Put_the_object_on_the_table_into_the_basket_then_t.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_w026bb9b_2023_09_22_12h_26m_19s-Put_the_object_on_the_table_into_the_basket_then_t.mp4"
+  },
+  {
+    "id": 52,
+    "video_id": "IPRL_w026bb9b_2023_09_22_18h_29m_18s",
+    "action": "Move_the_mug_cup_from_the_right_to_the_left_of_the",
+    "input_image": "first_frame/droid-IPRL_w026bb9b_2023_09_22_18h_29m_18s-Move_the_mug_cup_from_the_right_to_the_left_of_the.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IPRL_w026bb9b_2023_09_22_18h_29m_18s-Move_the_mug_cup_from_the_right_to_the_left_of_the.mp4"
+  },
+  {
+    "id": 53,
+    "video_id": "IRIS_7dfa2da3_2023_04_18_12h_18m_31s",
+    "action": "Put_the_marker_on_the_table",
+    "input_image": "first_frame/droid-IRIS_7dfa2da3_2023_04_18_12h_18m_31s-Put_the_marker_on_the_table.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_7dfa2da3_2023_04_18_12h_18m_31s-Put_the_marker_on_the_table.mp4"
+  },
+  {
+    "id": 54,
+    "video_id": "IRIS_7dfa2da3_2023_04_20_14h_05m_31s",
+    "action": "Put_the_marker_in_the_mug",
+    "input_image": "first_frame/droid-IRIS_7dfa2da3_2023_04_20_14h_05m_31s-Put_the_marker_in_the_mug.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_7dfa2da3_2023_04_20_14h_05m_31s-Put_the_marker_in_the_mug.mp4"
+  },
+  {
+    "id": 55,
+    "video_id": "IRIS_7dfa2da3_2023_04_24_16h_22m_03s",
+    "action": "Put_the_marker_inside_the_mug_cup",
+    "input_image": "first_frame/droid-IRIS_7dfa2da3_2023_04_24_16h_22m_03s-Put_the_marker_inside_the_mug_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_7dfa2da3_2023_04_24_16h_22m_03s-Put_the_marker_inside_the_mug_cup.mp4"
+  },
+  {
+    "id": 56,
+    "video_id": "IRIS_7dfa2da3_2023_05_11_15h_15m_44s",
+    "action": "Pick_the_marker_from_the_cup_and_put_it_on_the_tab",
+    "input_image": "first_frame/droid-IRIS_7dfa2da3_2023_05_11_15h_15m_44s-Pick_the_marker_from_the_cup_and_put_it_on_the_tab.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_7dfa2da3_2023_05_11_15h_15m_44s-Pick_the_marker_from_the_cup_and_put_it_on_the_tab.mp4"
+  },
+  {
+    "id": 57,
+    "video_id": "IRIS_7dfa2da3_2023_05_17_09h_34m_23s",
+    "action": "Open_the_left_cabinet_door",
+    "input_image": "first_frame/droid-IRIS_7dfa2da3_2023_05_17_09h_34m_23s-Open_the_left_cabinet_door.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_7dfa2da3_2023_05_17_09h_34m_23s-Open_the_left_cabinet_door.mp4"
+  },
+  {
+    "id": 58,
+    "video_id": "IRIS_7dfa2da3_2023_06_14_09h_34m_39s",
+    "action": "Place_the_candy_in_the_blue_cup_on_the_left",
+    "input_image": "first_frame/droid-IRIS_7dfa2da3_2023_06_14_09h_34m_39s-Place_the_candy_in_the_blue_cup_on_the_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_7dfa2da3_2023_06_14_09h_34m_39s-Place_the_candy_in_the_blue_cup_on_the_left.mp4"
+  },
+  {
+    "id": 59,
+    "video_id": "IRIS_938130c4_2023_07_21_11h_47m_11s",
+    "action": "Move_the_hanger_with_the_black_and_white_shirt_to_",
+    "input_image": "first_frame/droid-IRIS_938130c4_2023_07_21_11h_47m_11s-Move_the_hanger_with_the_black_and_white_shirt_to_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_938130c4_2023_07_21_11h_47m_11s-Move_the_hanger_with_the_black_and_white_shirt_to_.mp4"
+  },
+  {
+    "id": 60,
+    "video_id": "IRIS_y2a59979_2023_06_15_22h_20m_52s",
+    "action": "Open_the_book",
+    "input_image": "first_frame/droid-IRIS_y2a59979_2023_06_15_22h_20m_52s-Open_the_book.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_y2a59979_2023_06_15_22h_20m_52s-Open_the_book.mp4"
+  },
+  {
+    "id": 61,
+    "video_id": "IRIS_y2a59979_2023_06_19_21h_58m_38s",
+    "action": "Move_the_towel_to_the_backrest_of_the_right_chair",
+    "input_image": "first_frame/droid-IRIS_y2a59979_2023_06_19_21h_58m_38s-Move_the_towel_to_the_backrest_of_the_right_chair.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-IRIS_y2a59979_2023_06_19_21h_58m_38s-Move_the_towel_to_the_backrest_of_the_right_chair.mp4"
+  },
+  {
+    "id": 62,
+    "video_id": "PennPAL_06b0ffa5_2023_04_27_22h_56m_36s",
+    "action": "Remove_the_pen_from_the_green_cup",
+    "input_image": "first_frame/droid-PennPAL_06b0ffa5_2023_04_27_22h_56m_36s-Remove_the_pen_from_the_green_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-PennPAL_06b0ffa5_2023_04_27_22h_56m_36s-Remove_the_pen_from_the_green_cup.mp4"
+  },
+  {
+    "id": 63,
+    "video_id": "PennPAL_06b0ffa5_2023_04_29_18h_49m_04s",
+    "action": "Put_the_black_masking_tape_on_the_plate",
+    "input_image": "first_frame/droid-PennPAL_06b0ffa5_2023_04_29_18h_49m_04s-Put_the_black_masking_tape_on_the_plate.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-PennPAL_06b0ffa5_2023_04_29_18h_49m_04s-Put_the_black_masking_tape_on_the_plate.mp4"
+  },
+  {
+    "id": 64,
+    "video_id": "PennPAL_06b0ffa5_2023_04_29_23h_26m_57s",
+    "action": "Remove_the_pen_from_the_mug_cup",
+    "input_image": "first_frame/droid-PennPAL_06b0ffa5_2023_04_29_23h_26m_57s-Remove_the_pen_from_the_mug_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-PennPAL_06b0ffa5_2023_04_29_23h_26m_57s-Remove_the_pen_from_the_mug_cup.mp4"
+  },
+  {
+    "id": 65,
+    "video_id": "PennPAL_acda9df3_2023_07_10_20h_34m_48s",
+    "action": "Press_the_button_atop_the_toaster_oven",
+    "input_image": "first_frame/droid-PennPAL_acda9df3_2023_07_10_20h_34m_48s-Press_the_button_atop_the_toaster_oven.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-PennPAL_acda9df3_2023_07_10_20h_34m_48s-Press_the_button_atop_the_toaster_oven.mp4"
+  },
+  {
+    "id": 66,
+    "video_id": "PennPAL_acda9df3_2023_07_10_21h_33m_14s",
+    "action": "Pour_the_fries_out_of_the_light_green_cup_and_onto",
+    "input_image": "first_frame/droid-PennPAL_acda9df3_2023_07_10_21h_33m_14s-Pour_the_fries_out_of_the_light_green_cup_and_onto.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-PennPAL_acda9df3_2023_07_10_21h_33m_14s-Pour_the_fries_out_of_the_light_green_cup_and_onto.mp4"
+  },
+  {
+    "id": 67,
+    "video_id": "PennPAL_acda9df3_2023_07_14_16h_43m_26s",
+    "action": "Pick_up_the_piece_of_orange_plush_toy_and_put_it_i",
+    "input_image": "first_frame/droid-PennPAL_acda9df3_2023_07_14_16h_43m_26s-Pick_up_the_piece_of_orange_plush_toy_and_put_it_i.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-PennPAL_acda9df3_2023_07_14_16h_43m_26s-Pick_up_the_piece_of_orange_plush_toy_and_put_it_i.mp4"
+  },
+  {
+    "id": 68,
+    "video_id": "RAD_62828209_2023_11_26_15h_37m_50s",
+    "action": "Pick_up_one_pair_of_tongs_from_the_table_and_put_t",
+    "input_image": "first_frame/droid-RAD_62828209_2023_11_26_15h_37m_50s-Pick_up_one_pair_of_tongs_from_the_table_and_put_t.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAD_62828209_2023_11_26_15h_37m_50s-Pick_up_one_pair_of_tongs_from_the_table_and_put_t.mp4"
+  },
+  {
+    "id": 69,
+    "video_id": "RAD_62828209_2023_12_21_12h_02m_51s",
+    "action": "Put_the_first_right_cup_upright",
+    "input_image": "first_frame/droid-RAD_62828209_2023_12_21_12h_02m_51s-Put_the_first_right_cup_upright.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAD_62828209_2023_12_21_12h_02m_51s-Put_the_first_right_cup_upright.mp4"
+  },
+  {
+    "id": 70,
+    "video_id": "RAD_c6cf6b42_2023_11_18_17h_01m_19s",
+    "action": "Pick_up_the_colourless_cup_from_the_countertop_and",
+    "input_image": "first_frame/droid-RAD_c6cf6b42_2023_11_18_17h_01m_19s-Pick_up_the_colourless_cup_from_the_countertop_and.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAD_c6cf6b42_2023_11_18_17h_01m_19s-Pick_up_the_colourless_cup_from_the_countertop_and.mp4"
+  },
+  {
+    "id": 71,
+    "video_id": "RAIL_80edfcb1_2023_06_29_12h_51m_08s",
+    "action": "Pick_the_lid_and_put_it_on_the_pot",
+    "input_image": "first_frame/droid-RAIL_80edfcb1_2023_06_29_12h_51m_08s-Pick_the_lid_and_put_it_on_the_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_80edfcb1_2023_06_29_12h_51m_08s-Pick_the_lid_and_put_it_on_the_pot.mp4"
+  },
+  {
+    "id": 72,
+    "video_id": "RAIL_80edfcb1_2023_06_30_14h_35m_56s",
+    "action": "Move_the_faucet_to_the_center_of_the_sink.",
+    "input_image": "first_frame/droid-RAIL_80edfcb1_2023_06_30_14h_35m_56s-Move_the_faucet_to_the_center_of_the_sink..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_80edfcb1_2023_06_30_14h_35m_56s-Move_the_faucet_to_the_center_of_the_sink..mp4"
+  },
+  {
+    "id": 73,
+    "video_id": "RAIL_80edfcb1_2023_06_30_14h_56m_45s",
+    "action": "Move_the_doll_to_the_right",
+    "input_image": "first_frame/droid-RAIL_80edfcb1_2023_06_30_14h_56m_45s-Move_the_doll_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_80edfcb1_2023_06_30_14h_56m_45s-Move_the_doll_to_the_right.mp4"
+  },
+  {
+    "id": 74,
+    "video_id": "RAIL_80edfcb1_2023_07_14_13h_40m_57s",
+    "action": "Move_the_towel_to_the_left",
+    "input_image": "first_frame/droid-RAIL_80edfcb1_2023_07_14_13h_40m_57s-Move_the_towel_to_the_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_80edfcb1_2023_07_14_13h_40m_57s-Move_the_towel_to_the_left.mp4"
+  },
+  {
+    "id": 75,
+    "video_id": "RAIL_d027f2ae_2023_10_11_10h_45m_27s",
+    "action": "Pick_up_the_yellow_cup_from_the_table_and_put_it_i",
+    "input_image": "first_frame/droid-RAIL_d027f2ae_2023_10_11_10h_45m_27s-Pick_up_the_yellow_cup_from_the_table_and_put_it_i.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_d027f2ae_2023_10_11_10h_45m_27s-Pick_up_the_yellow_cup_from_the_table_and_put_it_i.mp4"
+  },
+  {
+    "id": 76,
+    "video_id": "RAIL_d027f2ae_2023_11_14_19h_14m_50s",
+    "action": "Pick_up_the_pencil_and_move_it_slightly_to_the_lef",
+    "input_image": "first_frame/droid-RAIL_d027f2ae_2023_11_14_19h_14m_50s-Pick_up_the_pencil_and_move_it_slightly_to_the_lef.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_d027f2ae_2023_11_14_19h_14m_50s-Pick_up_the_pencil_and_move_it_slightly_to_the_lef.mp4"
+  },
+  {
+    "id": 77,
+    "video_id": "RAIL_daf8a660_2023_11_29_13h_15m_02s",
+    "action": "Move_the_cube_to_the_right_on_the_shelf",
+    "input_image": "first_frame/droid-RAIL_daf8a660_2023_11_29_13h_15m_02s-Move_the_cube_to_the_right_on_the_shelf.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_daf8a660_2023_11_29_13h_15m_02s-Move_the_cube_to_the_right_on_the_shelf.mp4"
+  },
+  {
+    "id": 78,
+    "video_id": "RAIL_daf8a660_2023_11_29_14h_31m_51s",
+    "action": "Pick_up_the_brush_and_put_it_on_the_box_plush_toy",
+    "input_image": "first_frame/droid-RAIL_daf8a660_2023_11_29_14h_31m_51s-Pick_up_the_brush_and_put_it_on_the_box_plush_toy.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_daf8a660_2023_11_29_14h_31m_51s-Pick_up_the_brush_and_put_it_on_the_box_plush_toy.mp4"
+  },
+  {
+    "id": 79,
+    "video_id": "RAIL_eh61f232_2023_10_26_16h_56m_40s",
+    "action": "Move_the_mouse_to_the_left_side_of_the_table.",
+    "input_image": "first_frame/droid-RAIL_eh61f232_2023_10_26_16h_56m_40s-Move_the_mouse_to_the_left_side_of_the_table..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-RAIL_eh61f232_2023_10_26_16h_56m_40s-Move_the_mouse_to_the_left_side_of_the_table..mp4"
+  },
+  {
+    "id": 80,
+    "video_id": "REAL_de601749_2023_06_11_16h_15m_14s",
+    "action": "Remove_the_lid_from_the_pot",
+    "input_image": "first_frame/droid-REAL_de601749_2023_06_11_16h_15m_14s-Remove_the_lid_from_the_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-REAL_de601749_2023_06_11_16h_15m_14s-Remove_the_lid_from_the_pot.mp4"
+  },
+  {
+    "id": 81,
+    "video_id": "REAL_de601749_2023_06_19_16h_37m_17s",
+    "action": "Remove_the_lid_from_the_black_pot",
+    "input_image": "first_frame/droid-REAL_de601749_2023_06_19_16h_37m_17s-Remove_the_lid_from_the_black_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-REAL_de601749_2023_06_19_16h_37m_17s-Remove_the_lid_from_the_black_pot.mp4"
+  },
+  {
+    "id": 82,
+    "video_id": "TRI_52ca9b6a_2023_10_17_14h_02m_37s",
+    "action": "Remove_the_pink_bowl_from_the_cabinet",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_17_14h_02m_37s-Remove_the_pink_bowl_from_the_cabinet.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_17_14h_02m_37s-Remove_the_pink_bowl_from_the_cabinet.mp4"
+  },
+  {
+    "id": 83,
+    "video_id": "TRI_52ca9b6a_2023_10_17_16h_08m_30s",
+    "action": "Move_the_orange_pillow_to_the_left.",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_17_16h_08m_30s-Move_the_orange_pillow_to_the_left..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_17_16h_08m_30s-Move_the_orange_pillow_to_the_left..mp4"
+  },
+  {
+    "id": 84,
+    "video_id": "TRI_52ca9b6a_2023_10_18_11h_24m_47s",
+    "action": "Move_one_object_on_top_of_the_cabinet_to_the_right",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_18_11h_24m_47s-Move_one_object_on_top_of_the_cabinet_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_18_11h_24m_47s-Move_one_object_on_top_of_the_cabinet_to_the_right.mp4"
+  },
+  {
+    "id": 85,
+    "video_id": "TRI_52ca9b6a_2023_10_24_10h_20m_48s",
+    "action": "Put_the_two_soda_cans_into_the_bin",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_24_10h_20m_48s-Put_the_two_soda_cans_into_the_bin.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_24_10h_20m_48s-Put_the_two_soda_cans_into_the_bin.mp4"
+  },
+  {
+    "id": 86,
+    "video_id": "TRI_52ca9b6a_2023_10_25_17h_29m_36s",
+    "action": "Put_the_mug_on_the_top_of_the_shelf",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_25_17h_29m_36s-Put_the_mug_on_the_top_of_the_shelf.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_25_17h_29m_36s-Put_the_mug_on_the_top_of_the_shelf.mp4"
+  },
+  {
+    "id": 87,
+    "video_id": "TRI_52ca9b6a_2023_10_30_15h_12m_22s",
+    "action": "Pour_the_contents_in_the_silver_bowl_into_the_blue",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_30_15h_12m_22s-Pour_the_contents_in_the_silver_bowl_into_the_blue.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_30_15h_12m_22s-Pour_the_contents_in_the_silver_bowl_into_the_blue.mp4"
+  },
+  {
+    "id": 88,
+    "video_id": "TRI_52ca9b6a_2023_10_31_15h_32m_31s",
+    "action": "Put_the_fork_in_the_drying_rack",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_10_31_15h_32m_31s-Put_the_fork_in_the_drying_rack.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_10_31_15h_32m_31s-Put_the_fork_in_the_drying_rack.mp4"
+  },
+  {
+    "id": 89,
+    "video_id": "TRI_52ca9b6a_2023_11_13_17h_22m_34s",
+    "action": "Move_the_cup_to_the_left_and_cover_it",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_11_13_17h_22m_34s-Move_the_cup_to_the_left_and_cover_it.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_11_13_17h_22m_34s-Move_the_cup_to_the_left_and_cover_it.mp4"
+  },
+  {
+    "id": 90,
+    "video_id": "TRI_52ca9b6a_2023_11_16_14h_44m_02s",
+    "action": "Pick_up_one_object_from_the_countertop_and_put_it_",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_11_16_14h_44m_02s-Pick_up_one_object_from_the_countertop_and_put_it_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_11_16_14h_44m_02s-Pick_up_one_object_from_the_countertop_and_put_it_.mp4"
+  },
+  {
+    "id": 91,
+    "video_id": "TRI_52ca9b6a_2023_11_27_14h_54m_28s",
+    "action": "Move_the_straw_from_the_left_cup_to_the_right_cup",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_11_27_14h_54m_28s-Move_the_straw_from_the_left_cup_to_the_right_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_11_27_14h_54m_28s-Move_the_straw_from_the_left_cup_to_the_right_cup.mp4"
+  },
+  {
+    "id": 92,
+    "video_id": "TRI_52ca9b6a_2023_11_27_15h_41m_41s",
+    "action": "Put_the_coffee_pod_in_the_coffeemaker.",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_11_27_15h_41m_41s-Put_the_coffee_pod_in_the_coffeemaker..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_11_27_15h_41m_41s-Put_the_coffee_pod_in_the_coffeemaker..mp4"
+  },
+  {
+    "id": 93,
+    "video_id": "TRI_52ca9b6a_2023_11_29_14h_27m_20s",
+    "action": "Put_the_lid_on_the_transparent_container",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_11_29_14h_27m_20s-Put_the_lid_on_the_transparent_container.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_11_29_14h_27m_20s-Put_the_lid_on_the_transparent_container.mp4"
+  },
+  {
+    "id": 94,
+    "video_id": "TRI_52ca9b6a_2023_11_29_16h_40m_30s",
+    "action": "Open_the_coffee_machine",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2023_11_29_16h_40m_30s-Open_the_coffee_machine.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2023_11_29_16h_40m_30s-Open_the_coffee_machine.mp4"
+  },
+  {
+    "id": 95,
+    "video_id": "TRI_52ca9b6a_2024_01_10_13h_55m_12s",
+    "action": "Put_the_bottle_into_the_jar",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_10_13h_55m_12s-Put_the_bottle_into_the_jar.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_10_13h_55m_12s-Put_the_bottle_into_the_jar.mp4"
+  },
+  {
+    "id": 96,
+    "video_id": "TRI_52ca9b6a_2024_01_10_15h_57m_28s",
+    "action": "Close_the_lid_of_the_kettle",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_10_15h_57m_28s-Close_the_lid_of_the_kettle.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_10_15h_57m_28s-Close_the_lid_of_the_kettle.mp4"
+  },
+  {
+    "id": 97,
+    "video_id": "TRI_52ca9b6a_2024_01_16_14h_29m_39s",
+    "action": "Push_the_tea_cup_handle_from_the_right_to_the_left",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_16_14h_29m_39s-Push_the_tea_cup_handle_from_the_right_to_the_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_16_14h_29m_39s-Push_the_tea_cup_handle_from_the_right_to_the_left.mp4"
+  },
+  {
+    "id": 98,
+    "video_id": "TRI_52ca9b6a_2024_01_17_17h_39m_39s",
+    "action": "Put_the_striped_bowel_on_the_hand_towel_holder",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_17_17h_39m_39s-Put_the_striped_bowel_on_the_hand_towel_holder.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_17_17h_39m_39s-Put_the_striped_bowel_on_the_hand_towel_holder.mp4"
+  },
+  {
+    "id": 99,
+    "video_id": "TRI_52ca9b6a_2024_01_23_13h_46m_02s",
+    "action": "Remove_the_book_from_the_open_drawer",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_23_13h_46m_02s-Remove_the_book_from_the_open_drawer.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_23_13h_46m_02s-Remove_the_book_from_the_open_drawer.mp4"
+  },
+  {
+    "id": 100,
+    "video_id": "TRI_52ca9b6a_2024_01_24_14h_48m_34s",
+    "action": "Use_the_paper_towel_to_wipe_the_counter",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_24_14h_48m_34s-Use_the_paper_towel_to_wipe_the_counter.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_24_14h_48m_34s-Use_the_paper_towel_to_wipe_the_counter.mp4"
+  },
+  {
+    "id": 101,
+    "video_id": "TRI_52ca9b6a_2024_01_25_10h_40m_46s",
+    "action": "Remove_the_white_book_from_the_blue_book,_put_it_o",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_25_10h_40m_46s-Remove_the_white_book_from_the_blue_book,_put_it_o.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_25_10h_40m_46s-Remove_the_white_book_from_the_blue_book,_put_it_o.mp4"
+  },
+  {
+    "id": 102,
+    "video_id": "TRI_52ca9b6a_2024_01_25_15h_33m_29s",
+    "action": "Pick_up_the_spatula_and_place_it_on_the_bottom_she",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_25_15h_33m_29s-Pick_up_the_spatula_and_place_it_on_the_bottom_she.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_25_15h_33m_29s-Pick_up_the_spatula_and_place_it_on_the_bottom_she.mp4"
+  },
+  {
+    "id": 103,
+    "video_id": "TRI_52ca9b6a_2024_01_25_16h_21m_39s",
+    "action": "Put_the_book_in_the_basket",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_25_16h_21m_39s-Put_the_book_in_the_basket.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_25_16h_21m_39s-Put_the_book_in_the_basket.mp4"
+  },
+  {
+    "id": 104,
+    "video_id": "TRI_52ca9b6a_2024_01_29_10h_15m_11s",
+    "action": "Pick_up_the_book_on_the_right_and_flip_it_to_make_",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_29_10h_15m_11s-Pick_up_the_book_on_the_right_and_flip_it_to_make_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_29_10h_15m_11s-Pick_up_the_book_on_the_right_and_flip_it_to_make_.mp4"
+  },
+  {
+    "id": 105,
+    "video_id": "TRI_52ca9b6a_2024_01_30_16h_29m_45s",
+    "action": "Turn_the_top_knob_of_the_microwave_to_the_right",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_30_16h_29m_45s-Turn_the_top_knob_of_the_microwave_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_30_16h_29m_45s-Turn_the_top_knob_of_the_microwave_to_the_right.mp4"
+  },
+  {
+    "id": 106,
+    "video_id": "TRI_52ca9b6a_2024_01_31_15h_17m_01s",
+    "action": "Close_the_kettle_lid",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_01_31_15h_17m_01s-Close_the_kettle_lid.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_01_31_15h_17m_01s-Close_the_kettle_lid.mp4"
+  },
+  {
+    "id": 107,
+    "video_id": "TRI_52ca9b6a_2024_02_13_10h_58m_41s",
+    "action": "Open_the_fridge_door",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_02_13_10h_58m_41s-Open_the_fridge_door.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_02_13_10h_58m_41s-Open_the_fridge_door.mp4"
+  },
+  {
+    "id": 108,
+    "video_id": "TRI_52ca9b6a_2024_02_15_11h_37m_45s",
+    "action": "Remove_the_lid_from_the_green_bottle",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_02_15_11h_37m_45s-Remove_the_lid_from_the_green_bottle.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_02_15_11h_37m_45s-Remove_the_lid_from_the_green_bottle.mp4"
+  },
+  {
+    "id": 109,
+    "video_id": "TRI_52ca9b6a_2024_02_20_10h_44m_58s",
+    "action": "Turn_the_yellow_book_over",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_02_20_10h_44m_58s-Turn_the_yellow_book_over.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_02_20_10h_44m_58s-Turn_the_yellow_book_over.mp4"
+  },
+  {
+    "id": 110,
+    "video_id": "TRI_52ca9b6a_2024_02_21_14h_56m_21s",
+    "action": "Move_the_right_bowl_to_the_left",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_02_21_14h_56m_21s-Move_the_right_bowl_to_the_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_02_21_14h_56m_21s-Move_the_right_bowl_to_the_left.mp4"
+  },
+  {
+    "id": 111,
+    "video_id": "TRI_52ca9b6a_2024_02_22_16h_17m_26s",
+    "action": "Pick_up_the_glasses_pouch_and_drop_it_in_the_red_b",
+    "input_image": "first_frame/droid-TRI_52ca9b6a_2024_02_22_16h_17m_26s-Pick_up_the_glasses_pouch_and_drop_it_in_the_red_b.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_52ca9b6a_2024_02_22_16h_17m_26s-Pick_up_the_glasses_pouch_and_drop_it_in_the_red_b.mp4"
+  },
+  {
+    "id": 112,
+    "video_id": "TRI_938130c4_2023_08_10_09h_38m_50s",
+    "action": "Move_the_white_bowl_slightly_backward",
+    "input_image": "first_frame/droid-TRI_938130c4_2023_08_10_09h_38m_50s-Move_the_white_bowl_slightly_backward.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_938130c4_2023_08_10_09h_38m_50s-Move_the_white_bowl_slightly_backward.mp4"
+  },
+  {
+    "id": 113,
+    "video_id": "TRI_938130c4_2023_08_10_14h_53m_32s",
+    "action": "Slide_the_lid_on_the_wooden_toy_box_to_the_right.",
+    "input_image": "first_frame/droid-TRI_938130c4_2023_08_10_14h_53m_32s-Slide_the_lid_on_the_wooden_toy_box_to_the_right..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-TRI_938130c4_2023_08_10_14h_53m_32s-Slide_the_lid_on_the_wooden_toy_box_to_the_right..mp4"
+  },
+  {
+    "id": 114,
+    "video_id": "WEIRD_5a211037_2023_12_12_22h_32m_16s",
+    "action": "Use_the_green_block_to_knock_off_the_purple_block,",
+    "input_image": "first_frame/droid-WEIRD_5a211037_2023_12_12_22h_32m_16s-Use_the_green_block_to_knock_off_the_purple_block,.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-WEIRD_5a211037_2023_12_12_22h_32m_16s-Use_the_green_block_to_knock_off_the_purple_block,.mp4"
+  },
+  {
+    "id": 115,
+    "video_id": "WEIRD_5a211037_2023_12_22_21h_38m_04s",
+    "action": "Pour_the_contents_from_the_left_bowl_to_the_right_",
+    "input_image": "first_frame/droid-WEIRD_5a211037_2023_12_22_21h_38m_04s-Pour_the_contents_from_the_left_bowl_to_the_right_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-WEIRD_5a211037_2023_12_22_21h_38m_04s-Pour_the_contents_from_the_left_bowl_to_the_right_.mp4"
+  },
+  {
+    "id": 116,
+    "video_id": "WEIRD_5a211037_2023_12_22_21h_39m_08s",
+    "action": "Put_the_strawberry_in_the_orange_bowl",
+    "input_image": "first_frame/droid-WEIRD_5a211037_2023_12_22_21h_39m_08s-Put_the_strawberry_in_the_orange_bowl.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-WEIRD_5a211037_2023_12_22_21h_39m_08s-Put_the_strawberry_in_the_orange_bowl.mp4"
+  },
+  {
+    "id": 117,
+    "video_id": "WEIRD_e604eeed_2023_11_29_16h_00m_59s",
+    "action": "Unfold_the_yellow_cloth_from_right_to_left",
+    "input_image": "first_frame/droid-WEIRD_e604eeed_2023_11_29_16h_00m_59s-Unfold_the_yellow_cloth_from_right_to_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-WEIRD_e604eeed_2023_11_29_16h_00m_59s-Unfold_the_yellow_cloth_from_right_to_left.mp4"
+  },
+  {
+    "id": 118,
+    "video_id": "unknown_03027f76_unknown",
+    "action": "Remove_the_metal_bowl_from_the_cooker_and_put_it_i",
+    "input_image": "first_frame/droid-unknown_03027f76_unknown-Remove_the_metal_bowl_from_the_cooker_and_put_it_i.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_03027f76_unknown-Remove_the_metal_bowl_from_the_cooker_and_put_it_i.mp4"
+  },
+  {
+    "id": 119,
+    "video_id": "unknown_0566910d_unknown",
+    "action": "Remove_the_marker_from_the_white_cup_and_place_it_",
+    "input_image": "first_frame/droid-unknown_0566910d_unknown-Remove_the_marker_from_the_white_cup_and_place_it_.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_0566910d_unknown-Remove_the_marker_from_the_white_cup_and_place_it_.mp4"
+  },
+  {
+    "id": 120,
+    "video_id": "unknown_13b3b4c1_unknown",
+    "action": "Move_the_red_bowl_forward",
+    "input_image": "first_frame/droid-unknown_13b3b4c1_unknown-Move_the_red_bowl_forward.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_13b3b4c1_unknown-Move_the_red_bowl_forward.mp4"
+  },
+  {
+    "id": 121,
+    "video_id": "unknown_13cd10e9_unknown",
+    "action": "Pull_the_handle_of_the_tap_to_the_right",
+    "input_image": "first_frame/droid-unknown_13cd10e9_unknown-Pull_the_handle_of_the_tap_to_the_right.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_13cd10e9_unknown-Pull_the_handle_of_the_tap_to_the_right.mp4"
+  },
+  {
+    "id": 122,
+    "video_id": "unknown_1c58ef1e_unknown",
+    "action": "Turn_on_the_switch_of_the_extension_cord",
+    "input_image": "first_frame/droid-unknown_1c58ef1e_unknown-Turn_on_the_switch_of_the_extension_cord.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_1c58ef1e_unknown-Turn_on_the_switch_of_the_extension_cord.mp4"
+  },
+  {
+    "id": 123,
+    "video_id": "unknown_21e324c9_unknown",
+    "action": "Take_the_marker_out_of_the_cup_and_put_it_on_the_t",
+    "input_image": "first_frame/droid-unknown_21e324c9_unknown-Take_the_marker_out_of_the_cup_and_put_it_on_the_t.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_21e324c9_unknown-Take_the_marker_out_of_the_cup_and_put_it_on_the_t.mp4"
+  },
+  {
+    "id": 124,
+    "video_id": "unknown_22f7b66f_unknown",
+    "action": "Put_the_blue_pen_inside_the_black_mug",
+    "input_image": "first_frame/droid-unknown_22f7b66f_unknown-Put_the_blue_pen_inside_the_black_mug.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_22f7b66f_unknown-Put_the_blue_pen_inside_the_black_mug.mp4"
+  },
+  {
+    "id": 125,
+    "video_id": "unknown_26e05f98_unknown",
+    "action": "Pick_the_pen_from_the_cup_and_put_it_on_the_table,",
+    "input_image": "first_frame/droid-unknown_26e05f98_unknown-Pick_the_pen_from_the_cup_and_put_it_on_the_table,.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_26e05f98_unknown-Pick_the_pen_from_the_cup_and_put_it_on_the_table,.mp4"
+  },
+  {
+    "id": 126,
+    "video_id": "unknown_2a394162_unknown",
+    "action": "Put_the_purple_plushie_on_the_table",
+    "input_image": "first_frame/droid-unknown_2a394162_unknown-Put_the_purple_plushie_on_the_table.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_2a394162_unknown-Put_the_purple_plushie_on_the_table.mp4"
+  },
+  {
+    "id": 127,
+    "video_id": "unknown_37437b9b_unknown",
+    "action": "Put_the_rubber_band_on_the_jar.",
+    "input_image": "first_frame/droid-unknown_37437b9b_unknown-Put_the_rubber_band_on_the_jar..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_37437b9b_unknown-Put_the_rubber_band_on_the_jar..mp4"
+  },
+  {
+    "id": 128,
+    "video_id": "unknown_41d82b0e_unknown",
+    "action": "Pick_up_the_marker_and_put_it_in_the_cup",
+    "input_image": "first_frame/droid-unknown_41d82b0e_unknown-Pick_up_the_marker_and_put_it_in_the_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_41d82b0e_unknown-Pick_up_the_marker_and_put_it_in_the_cup.mp4"
+  },
+  {
+    "id": 129,
+    "video_id": "unknown_49e73875_unknown",
+    "action": "Put_the_marker_in_the_mug",
+    "input_image": "first_frame/droid-unknown_49e73875_unknown-Put_the_marker_in_the_mug.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_49e73875_unknown-Put_the_marker_in_the_mug.mp4"
+  },
+  {
+    "id": 130,
+    "video_id": "unknown_50a7b339_unknown",
+    "action": "Pick_the_socks_and_put_them_in_the_bag",
+    "input_image": "first_frame/droid-unknown_50a7b339_unknown-Pick_the_socks_and_put_them_in_the_bag.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_50a7b339_unknown-Pick_the_socks_and_put_them_in_the_bag.mp4"
+  },
+  {
+    "id": 131,
+    "video_id": "unknown_543ecba1_unknown",
+    "action": "Use_the_towel_to_wipe_the_plate",
+    "input_image": "first_frame/droid-unknown_543ecba1_unknown-Use_the_towel_to_wipe_the_plate.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_543ecba1_unknown-Use_the_towel_to_wipe_the_plate.mp4"
+  },
+  {
+    "id": 132,
+    "video_id": "unknown_71ed61fe_unknown",
+    "action": "Take_the_marker_out_of_the_maroon_mug",
+    "input_image": "first_frame/droid-unknown_71ed61fe_unknown-Take_the_marker_out_of_the_maroon_mug.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_71ed61fe_unknown-Take_the_marker_out_of_the_maroon_mug.mp4"
+  },
+  {
+    "id": 133,
+    "video_id": "unknown_72187604_unknown",
+    "action": "Put_the_pen_in_the_bowl",
+    "input_image": "first_frame/droid-unknown_72187604_unknown-Put_the_pen_in_the_bowl.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_72187604_unknown-Put_the_pen_in_the_bowl.mp4"
+  },
+  {
+    "id": 134,
+    "video_id": "unknown_734d9c27_unknown",
+    "action": "Pick_up_the_blue_and_orange_object_and_put_them_in",
+    "input_image": "first_frame/droid-unknown_734d9c27_unknown-Pick_up_the_blue_and_orange_object_and_put_them_in.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_734d9c27_unknown-Pick_up_the_blue_and_orange_object_and_put_them_in.mp4"
+  },
+  {
+    "id": 135,
+    "video_id": "unknown_763a4776_unknown",
+    "action": "Move_the_bowl_on_the_table",
+    "input_image": "first_frame/droid-unknown_763a4776_unknown-Move_the_bowl_on_the_table.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_763a4776_unknown-Move_the_bowl_on_the_table.mp4"
+  },
+  {
+    "id": 136,
+    "video_id": "unknown_86b8a369_unknown",
+    "action": "Pick_up_the_cup,_place_it_in_between_the_books,_re",
+    "input_image": "first_frame/droid-unknown_86b8a369_unknown-Pick_up_the_cup,_place_it_in_between_the_books,_re.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_86b8a369_unknown-Pick_up_the_cup,_place_it_in_between_the_books,_re.mp4"
+  },
+  {
+    "id": 137,
+    "video_id": "unknown_90fb5ad4_unknown",
+    "action": "Close_the_water_tap.",
+    "input_image": "first_frame/droid-unknown_90fb5ad4_unknown-Close_the_water_tap..mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_90fb5ad4_unknown-Close_the_water_tap..mp4"
+  },
+  {
+    "id": 138,
+    "video_id": "unknown_96abfdd4_unknown",
+    "action": "Pick_up_the_bottle_with_the_brown_liquid_and_place",
+    "input_image": "first_frame/droid-unknown_96abfdd4_unknown-Pick_up_the_bottle_with_the_brown_liquid_and_place.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_96abfdd4_unknown-Pick_up_the_bottle_with_the_brown_liquid_and_place.mp4"
+  },
+  {
+    "id": 139,
+    "video_id": "unknown_a2aaf085_unknown",
+    "action": "Put_a_rubber_band_around_the_cup",
+    "input_image": "first_frame/droid-unknown_a2aaf085_unknown-Put_a_rubber_band_around_the_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_a2aaf085_unknown-Put_a_rubber_band_around_the_cup.mp4"
+  },
+  {
+    "id": 140,
+    "video_id": "unknown_a879693c_unknown",
+    "action": "Push_the_clear_storage_box",
+    "input_image": "first_frame/droid-unknown_a879693c_unknown-Push_the_clear_storage_box.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_a879693c_unknown-Push_the_clear_storage_box.mp4"
+  },
+  {
+    "id": 141,
+    "video_id": "unknown_b5a8c87a_unknown",
+    "action": "Pick_up_the_yellow_block_at_the_front_of_the_table",
+    "input_image": "first_frame/droid-unknown_b5a8c87a_unknown-Pick_up_the_yellow_block_at_the_front_of_the_table.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_b5a8c87a_unknown-Pick_up_the_yellow_block_at_the_front_of_the_table.mp4"
+  },
+  {
+    "id": 142,
+    "video_id": "unknown_bc766e24_unknown",
+    "action": "Take_the_blue_pen_out_of_the_maroon_mug",
+    "input_image": "first_frame/droid-unknown_bc766e24_unknown-Take_the_blue_pen_out_of_the_maroon_mug.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_bc766e24_unknown-Take_the_blue_pen_out_of_the_maroon_mug.mp4"
+  },
+  {
+    "id": 143,
+    "video_id": "unknown_c121b0f8_unknown",
+    "action": "Put_the_pineapple_plush_toy_on_top_of_the_blue_pot",
+    "input_image": "first_frame/droid-unknown_c121b0f8_unknown-Put_the_pineapple_plush_toy_on_top_of_the_blue_pot.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_c121b0f8_unknown-Put_the_pineapple_plush_toy_on_top_of_the_blue_pot.mp4"
+  },
+  {
+    "id": 144,
+    "video_id": "unknown_c4844ce4_unknown",
+    "action": "Put_a_rubber_band_around_the_cup",
+    "input_image": "first_frame/droid-unknown_c4844ce4_unknown-Put_a_rubber_band_around_the_cup.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_c4844ce4_unknown-Put_a_rubber_band_around_the_cup.mp4"
+  },
+  {
+    "id": 145,
+    "video_id": "unknown_cf661f93_unknown",
+    "action": "Move_the_cup_backward",
+    "input_image": "first_frame/droid-unknown_cf661f93_unknown-Move_the_cup_backward.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_cf661f93_unknown-Move_the_cup_backward.mp4"
+  },
+  {
+    "id": 146,
+    "video_id": "unknown_db6fedc2_unknown",
+    "action": "Push_the_orange_towel_on_the_table_to_the_left",
+    "input_image": "first_frame/droid-unknown_db6fedc2_unknown-Push_the_orange_towel_on_the_table_to_the_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_db6fedc2_unknown-Push_the_orange_towel_on_the_table_to_the_left.mp4"
+  },
+  {
+    "id": 147,
+    "video_id": "unknown_de69fac5_unknown",
+    "action": "Move_the_green_towel_to_the_left",
+    "input_image": "first_frame/droid-unknown_de69fac5_unknown-Move_the_green_towel_to_the_left.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_de69fac5_unknown-Move_the_green_towel_to_the_left.mp4"
+  },
+  {
+    "id": 148,
+    "video_id": "unknown_e624bf6e_unknown",
+    "action": "Put_the_peace_of_paper_into_the_bag",
+    "input_image": "first_frame/droid-unknown_e624bf6e_unknown-Put_the_peace_of_paper_into_the_bag.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_e624bf6e_unknown-Put_the_peace_of_paper_into_the_bag.mp4"
+  },
+  {
+    "id": 149,
+    "video_id": "unknown_ec1b6e30_unknown",
+    "action": "Open_the_microwave_door",
+    "input_image": "first_frame/droid-unknown_ec1b6e30_unknown-Open_the_microwave_door.mp4.png",
+    "ground_truth_video": "ground_truth_videos/droid-unknown_ec1b6e30_unknown-Open_the_microwave_door.mp4"
+  }
+]

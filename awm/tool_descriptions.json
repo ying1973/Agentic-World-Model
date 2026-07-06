@@ -1,0 +1,200 @@
+{
+  "sora2": {
+    "tool_name": "sora2",
+    "tool_description": "A general-purpose video generation model. It is an API-based service with no local computational footprint, good quality, moderate speed, and moderate cost. Suitable for stable video generation with balanced quality and budget.",
+    "field": "general_video_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Text description for video generation." },
+      "image_id": { "type": "string", "description": "Image ID or path for reference." }
+    },
+    "required": ["prompt", "image_id"],
+    "responses": {
+      "video_path": { "type": "string", "description": "Local path to generated video." }
+    }
+  },
+
+  "wan2.5": {
+    "tool_name": "wan2.5",
+    "tool_description": "A high-performance general-purpose video generation model via API. Offers fast speed, no local resource usage, but high cost. Delivers top-tier video quality and is ideal for high-budget, time-sensitive applications.",
+    "field": "general_video_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Text prompt for video." },
+      "image_id": { "type": "string", "description": "Image ID or path." }
+    },
+    "required": ["prompt", "image_id"],
+    "responses": {
+      "video_path": { "type": "string", "description": "Path to output video." }
+    }
+  },
+
+  "wan2.2": {
+    "tool_name": "wan2.2",
+    "tool_description": "A local inference model for general video generation. Requires significant computational resources, slower speed, but incurs no ongoing cost. Best for cost-sensitive, offline deployment where speed is not critical.",
+    "field": "general_video_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Video description." },
+      "image_id": { "type": "string", "description": "Image reference." }
+    },
+    "required": ["prompt", "image_id"],
+    "responses": {
+      "video_path": { "type": "string", "description": "Generated video path." }
+    }
+  },
+
+  "GEbase": {
+    "tool_name": "GEbase",
+    "tool_description": "A specialized embodied video generation model running locally. Very low quality, moderate resource usage, fast speed, and no cost.",
+    "field": "embodied_video_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Embodied video prompt." },
+      "image": { "type": "string", "description": "Image ID or path." }
+    },
+    "required": ["prompt", "image"],
+    "responses": {
+      "output_dir": { "type": "string", "description": "Directory containing output video." }
+    }
+  },
+
+  "diamond": {
+    "tool_name": "diamond",
+    "tool_description": "A specialized Atari game frame prediction model for next-step observation. Runs locally with minimal resource usage, fast speed, and no cost. Excels in game environment prediction with high fidelity.",
+    "field": "atari_game_frame_prediction",
+    "parameters": {
+      "game": { "type": "string", "description": "Game name (e.g., pong)." },
+      "image_id": { "type": "string", "description": "Current frame image." },
+      "action": { "type": "integer", "description": "Action ID to simulate." }
+    },
+    "required": ["game", "image_id", "action"],
+    "responses": {
+      "next_frame_path": { "type": "string", "description": "Path to predicted next frame." }
+    },
+    "games_allowed": [
+      "Alien", "Amidar", "Assault", "Asterix", "BankHeist", "BattleZone", "Boxing", "Breakout", "ChopperCommand", "CrazyClimber", "DemonAttack", "Freeway", "Frostbite", "Gopher", "Hero", "Jamesbond", "Kangaroo", "Krull", "KungFuMaster", "MsPacman", "Pong", "PrivateEye", "Qbert", "RoadRunner", "Seaquest", "UpNDown"
+    ]
+  },
+
+  "WebDreamer": {
+    "tool_name": "WebDreamer",
+    "tool_description": "A GUI prediction model that generates textual descriptions from screenshots. API-based, no local resources, fast speed, moderate cost. Specialized for GUI understanding and change prediction.",
+    "field": "gui_prediction",
+    "parameters": {
+      "task": { "type": "string", "description": "Task and action description." },
+      "image_id": { "type": "string", "description": "Screenshot image." }
+    },
+    "required": ["task", "image_id"],
+    "responses": {
+      "prediction": { "type": "object", "description": "Structured prediction result." }
+    }
+  },
+
+  "qwen_coder": {
+    "tool_name": "qwen_coder",
+    "tool_description": "A code generation model via API. No local resources, fast speed, low cost. Optimized for coding tasks with solid performance and budget efficiency.",
+    "field": "code_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Code generation prompt." }
+    },
+    "required": ["prompt"],
+    "responses": {
+      "generated_text": { "type": "string", "description": "Generated code or text." }
+    }
+  },
+
+  "gpt_image_1": {
+    "tool_name": "gpt_image_1",
+    "tool_description": "A general-purpose image editing model via API. Good quality, no local resources, moderate speed, high cost. Suitable for versatile image editing across multiple tasks.",
+    "field": "general_image_editing",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Image edit instruction." },
+      "image_id": { "type": "string", "description": "Image to edit." }
+    },
+    "required": ["prompt", "image_id"],
+    "responses": {
+      "edited_image_path": { "type": "string", "description": "Path to edited image." }
+    }
+  },
+
+  "nano_banana": {
+    "tool_name": "nano_banana",
+    "tool_description": "A cost-effective general image editing model via API. No local resources, fast speed, low cost. Good for game frame and general image editing with high value.",
+    "field": "general_image_editing",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Edit prompt." },
+      "image_id": { "type": "string", "description": "Input image." }
+    },
+    "required": ["prompt", "image_id"],
+    "responses": {
+      "edited_image_path": { "type": "string", "description": "Output image path." }
+    }
+  },
+
+  "qwen_image_edit": {
+    "tool_name": "qwen_image_edit",
+    "tool_description": "A balanced general image editing model via API. No local resources, fast speed, moderate cost. Strong in structural consistency for image editing tasks.",
+    "field": "general_image_editing",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Edit instruction." },
+      "image_id": { "type": "string", "description": "Source image." }
+    },
+    "required": ["prompt", "image_id"],
+    "responses": {
+      "edited_image_path": { "type": "string", "description": "Edited image path."}
+    }
+  },
+
+  "chatgpt5": {
+    "tool_name": "chatgpt5",
+    "tool_description": "A versatile multimodal text generation model via API. No local resources, fast speed, moderate cost. Performs well across multiple tasks including tool use and GUI description.",
+    "field": "general_text_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Text prompt." },
+      "image_id": { "type": "string", "description": "Optional image for multimodal input." }
+    },
+    "required": ["prompt"],
+    "responses": {
+      "generated_text": { "type": "string", "description": "Model response." }
+    }
+  },
+
+  "claude4": {
+    "tool_name": "claude4",
+    "tool_description": "A high-precision multimodal text generation model via API. No local resources, fast speed, high cost. Excels in tool use and code generation with top-tier accuracy.",
+    "field": "general_text_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Input prompt." },
+      "image_id": { "type": "string", "description": "Optional image." }
+    },
+    "required": ["prompt"],
+    "responses": {
+      "generated_text": { "type": "string", "description": "Generated text." }
+    }
+  },
+
+  "chatgpt5_mini": {
+    "tool_name": "chatgpt5_mini",
+    "tool_description": "A lightweight multimodal text generation model via API. No local resources, fast speed, low cost. Strong in tool use simulation with high exact match rate, ideal for budget-aware deployments.",
+    "field": "general_text_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Prompt text." },
+      "image_id": { "type": "string", "description": "Optional image." }
+    },
+    "required": ["prompt"],
+    "responses": {
+      "generated_text": { "type": "string", "description": "Model output." }
+    }
+  },
+
+  "gemini3_flash": {
+    "tool_name": "gemini3_flash",
+    "tool_description": "A low-cost multimodal text generation model via API. No local resources, fast speed, very low cost. Good for tool use and GUI tasks but weaker in code generation. Best for cost-sensitive applications.",
+    "field": "general_text_generation",
+    "parameters": {
+      "prompt": { "type": "string", "description": "Text prompt." },
+      "image_id": { "type": "string", "description": "Optional image." }
+    },
+    "required": ["prompt"],
+    "responses": {
+      "generated_text": { "type": "string", "description": "Generated response." }
+    }
+  }
+}
